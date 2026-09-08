@@ -12,35 +12,30 @@
 
 <br/>
 
-I work across **product engineering, AI systems, browsers, backend architecture and infrastructure**. This profile is a project ledger: shipped products, private client systems, active builds, research, prototypes, concepts and older work are labeled separately instead of being presented as if everything is live.
-
-### Current focus
-
-| System | State | Focus |
-|---|---|---|
-| **Zylo Browser** | `BUILDING` | Privacy-first browsing, VPN, contextual intelligence |
-| **ExploreAI.tools** | `LIVE` | AI discovery, search, structured content, SEO systems |
-| **SocialHub** | `BUILDING` | AI-assisted content generation and social publishing |
-| **INDRA / Orchestrator** | `RESEARCH` | Multi-model routing, verification and cost-aware execution |
-| **VectorSeed** | `RESEARCH` | Lightweight structured SVG generation |
-| **Advocate Matrimony** | `LIVE` | Mobile product, backend, migration and deployment |
-
-<br/>
-
-### Project states
-
-`LIVE` publicly available &nbsp;·&nbsp; `BUILDING` active development &nbsp;·&nbsp; `PRIVATE` substantial non-public/client work &nbsp;·&nbsp; `PROTOTYPE` functional experiment &nbsp;·&nbsp; `RESEARCH` investigation/training &nbsp;·&nbsp; `CONCEPT` designed but not yet built &nbsp;·&nbsp; `ARCHIVE` earlier/completed work
+I work across **product engineering, AI systems, browsers, backend architecture and infrastructure**. This is an engineering archive, not a list of technologies: products that shipped, systems that stayed private, active builds, research, prototypes, concepts and older work all stay visible — with their lifecycle stated clearly.
 
 <br/>
 
 <p align="center">
-  <img src="./assets/project-universe.svg" alt="Project index — 55 projects across 8 domains" width="100%" />
+  <img src="./assets/current-systems.svg" alt="Current systems and their lifecycle states" width="100%" />
 </p>
 
----
+<br/>
 
-<details open>
-<summary><strong>01 · Browser · Privacy · Intelligence</strong> &nbsp; <code>6 projects</code></summary>
+<p align="center">
+  <img src="./assets/lifecycle.svg" alt="Project lifecycle key" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/project-universe.svg" alt="Project atlas — 55 projects across 8 domains" width="100%" />
+</p>
+
+<br/>
+
+<details>
+<summary><strong>01 / Browser · Privacy · Intelligence</strong> &nbsp; <code>06 projects</code></summary>
 <br/>
 
 | Project | State | Scope |
@@ -54,10 +49,8 @@ I work across **product engineering, AI systems, browsers, backend architecture 
 
 </details>
 
----
-
 <details>
-<summary><strong>02 · ExploreAI Ecosystem</strong> &nbsp; <code>5 projects</code></summary>
+<summary><strong>02 / ExploreAI Ecosystem</strong> &nbsp; <code>05 projects</code></summary>
 <br/>
 
 | Project | State | Scope |
@@ -70,10 +63,8 @@ I work across **product engineering, AI systems, browsers, backend architecture 
 
 </details>
 
----
-
 <details>
-<summary><strong>03 · AI · Research · Generative Systems</strong> &nbsp; <code>7 projects</code></summary>
+<summary><strong>03 / AI · Research · Generative Systems</strong> &nbsp; <code>07 projects</code></summary>
 <br/>
 
 | Project | State | Scope |
@@ -88,10 +79,8 @@ I work across **product engineering, AI systems, browsers, backend architecture 
 
 </details>
 
----
-
 <details>
-<summary><strong>04 · Products · SaaS · Application Platforms</strong> &nbsp; <code>11 projects</code></summary>
+<summary><strong>04 / Products · SaaS · Application Platforms</strong> &nbsp; <code>11 projects</code></summary>
 <br/>
 
 | Project | State | Scope |
@@ -110,10 +99,8 @@ I work across **product engineering, AI systems, browsers, backend architecture 
 
 </details>
 
----
-
 <details>
-<summary><strong>05 · AdTech · Affiliate · Commerce</strong> &nbsp; <code>12 projects</code></summary>
+<summary><strong>05 / AdTech · Affiliate · Commerce</strong> &nbsp; <code>12 projects</code></summary>
 <br/>
 
 | Project | State | Scope |
@@ -133,10 +120,8 @@ I work across **product engineering, AI systems, browsers, backend architecture 
 
 </details>
 
----
-
 <details>
-<summary><strong>06 · Media · Content Automation</strong> &nbsp; <code>2 projects</code></summary>
+<summary><strong>06 / Media · Content Automation</strong> &nbsp; <code>02 projects</code></summary>
 <br/>
 
 | Project | State | Scope |
@@ -146,10 +131,8 @@ I work across **product engineering, AI systems, browsers, backend architecture 
 
 </details>
 
----
-
 <details>
-<summary><strong>07 · Infrastructure · DevOps · Enterprise</strong> &nbsp; <code>3 projects</code></summary>
+<summary><strong>07 / Infrastructure · DevOps · Enterprise</strong> &nbsp; <code>03 projects</code></summary>
 <br/>
 
 | Project | State | Scope |
@@ -160,10 +143,8 @@ I work across **product engineering, AI systems, browsers, backend architecture 
 
 </details>
 
----
-
 <details>
-<summary><strong>08 · Earlier Builds · Experiments</strong> &nbsp; <code>9 projects</code></summary>
+<summary><strong>08 / Earlier Builds · Experiments</strong> &nbsp; <code>09 projects</code></summary>
 <br/>
 
 | Project | State | Scope |
@@ -180,23 +161,25 @@ I work across **product engineering, AI systems, browsers, backend architecture 
 
 </details>
 
----
+<br/>
 
-### Engineering approach
+> **OPERATING NOTE** — Understand the system → reduce unnecessary layers → build the smallest useful path → instrument failure → ship → learn from production.
 
-**Understand the system → reduce unnecessary layers → build the smallest useful path → instrument failure → ship → learn from production.**
-
-### Current runtime
+<details>
+<summary><strong>Runtime / current tools</strong></summary>
+<br/>
 
 `Python` · `TypeScript` · `JavaScript` · `Dart` · `Node.js` · `Fastify` · `Flutter` · `PyTorch` · `MySQL` · `MongoDB` · `Redis` · `Linux` · `Docker` · `Nginx` · `Coolify`
 
 <sub>The stack changes by problem; it is not the identity of the work.</sub>
 
+</details>
+
 <br/>
 
 <p align="center">
-  <strong>Abhishek Kumar</strong><br/>
-  Software Engineer · India<br/><br/>
+  <strong>ABHISHEK KUMAR</strong><br/>
+  <sub>Software Engineer · India</sub><br/><br/>
   <a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:abhisec.tech@gmail.com">abhisec.tech@gmail.com</a>
