@@ -1,186 +1,175 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Abhishek Kumar — engineering index" width="100%" />
+  <img src="./assets/hero.svg" alt="Abhishek Kumar — software engineer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;·&nbsp;
   <a href="mailto:abhisec.tech@gmail.com">Email</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;·&nbsp;
   <a href="https://exploreai.tools/">ExploreAI</a>
 </p>
 
-<br/>
+I usually work end-to-end: product idea, frontend/mobile, backend, data, deployment, and the boring production problems that show up after launch.
 
-I work across **product engineering, AI systems, browsers, backend architecture and infrastructure**. This is an engineering archive, not a list of technologies: products that shipped, systems that stayed private, active builds, research, prototypes, concepts and older work all stay visible — with their lifecycle stated clearly.
+A lot of the work below is private or experimental. I keep it here anyway because it is part of the path — I just label the state instead of pretending every project is a live startup.
 
-<br/>
+### working on now
 
-<p align="center">
-  <img src="./assets/current-systems.svg" alt="Current systems and their lifecycle states" width="100%" />
-</p>
+- **Zylo Browser** — privacy-first browsing, VPN and contextual intelligence · `building`
+- **ExploreAI.tools** — AI discovery, search, content and SEO systems · `live`
+- **SocialHub** — content generation and social publishing · `building`
+- **INDRA / Orchestrator** — multi-model routing and verification · `research`
+- **VectorSeed** — structured SVG generation with small models · `research`
+- **Advocate Matrimony** — mobile product, backend and deployment · `live`
 
-<br/>
+<sub>`live` public product · `building` active work · `private` client/internal · `prototype` working experiment · `research` investigation/training · `concept` designed, not built · `archive` older/completed</sub>
 
-<p align="center">
-  <img src="./assets/lifecycle.svg" alt="Project lifecycle key" width="100%" />
-</p>
+---
 
-<br/>
-
-<p align="center">
-  <img src="./assets/project-universe.svg" alt="Project atlas — 55 projects across 8 domains" width="100%" />
-</p>
-
-<br/>
+## projects
 
 <details>
-<summary><strong>01 / Browser · Privacy · Intelligence</strong> &nbsp; <code>06 projects</code></summary>
+<summary><strong>browser · privacy · intelligence</strong> — 6 projects</summary>
 <br/>
 
-| Project | State | Scope |
+| Project | State | Notes |
 |---|---|---|
-| **Zylo VPN** | `BUILDING` | Flutter VPN, subscriptions, server inventory, AtomSDK/PureWL, backend services |
-| **Zylo Browser** | `BUILDING` | GeckoView/Chromium, privacy, VPN, ad blocking, search, contextual AI |
-| **Zylo / Loki DMP** | `BUILDING` | Events, profiles, segmentation, intent, recommendation, prediction infrastructure |
-| **Zylo Suggestive Ads** | `PROTOTYPE` | Product-intent understanding and better-value commerce recommendations |
-| **Zylo Companion** | `PROTOTYPE` | Contextual assistant around browsing behavior and product discovery |
-| **LokiVPN Tracker** | `PRIVATE` | Tracking and product utilities around the VPN ecosystem |
+| **Zylo VPN** | `building` | Flutter VPN, subscriptions, server inventory, AtomSDK/PureWL, backend services |
+| **Zylo Browser** | `building` | GeckoView/Chromium, privacy, VPN, ad blocking, search, contextual AI |
+| **Zylo / Loki DMP** | `building` | events, profiles, segmentation, intent, recommendation and prediction infrastructure |
+| **Zylo Suggestive Ads** | `prototype` | product-intent understanding and better-value commerce recommendations |
+| **Zylo Companion** | `prototype` | contextual assistant around browsing behavior and product discovery |
+| **LokiVPN Tracker** | `private` | tracking and product utilities around the VPN ecosystem |
 
 </details>
 
 <details>
-<summary><strong>02 / ExploreAI Ecosystem</strong> &nbsp; <code>05 projects</code></summary>
+<summary><strong>ExploreAI ecosystem</strong> — 5 projects</summary>
 <br/>
 
-| Project | State | Scope |
+| Project | State | Notes |
 |---|---|---|
-| **[ExploreAI.tools](https://exploreai.tools/)** | `LIVE` | AI-tool discovery, categories, search, comparison, content and programmatic SEO |
-| **ExploreAI Backend** | `PRIVATE` | APIs, ingestion, categories, search, SEO data and content infrastructure |
-| **ExploreAI Dashboard** | `PRIVATE` | Admin control plane for tools, models, pages, SEO and generated content |
-| **ExploreAI AI SEO Engine** | `PRIVATE` | OpenRouter model selection/fallback for metadata, schemas and page generation |
-| **ExploreAI Agent V2** | `BUILDING` | Agent-oriented frontend/backend evolution of ExploreAI |
+| **[ExploreAI.tools](https://exploreai.tools/)** | `live` | AI-tool discovery, categories, search, comparison, content and programmatic SEO |
+| **ExploreAI Backend** | `private` | APIs, ingestion, categories, search, SEO data and content infrastructure |
+| **ExploreAI Dashboard** | `private` | admin control plane for tools, models, pages, SEO and generated content |
+| **ExploreAI AI SEO Engine** | `private` | OpenRouter model selection/fallback for metadata, schemas and page generation |
+| **ExploreAI Agent V2** | `building` | agent-oriented frontend/backend evolution of ExploreAI |
 
 </details>
 
 <details>
-<summary><strong>03 / AI · Research · Generative Systems</strong> &nbsp; <code>07 projects</code></summary>
+<summary><strong>AI · research · generative systems</strong> — 7 projects</summary>
 <br/>
 
-| Project | State | Scope |
+| Project | State | Notes |
 |---|---|---|
-| **INDRA / Multi-Model Orchestrator** | `RESEARCH` | Classifier → scorer → orchestrator → specialized models → verifier |
-| **VectorSeed / TinySVG** | `RESEARCH` | Lightweight model research for structured, editable SVG generation |
-| **RepoMind** | `PROTOTYPE` | Repository-aware engineering agent with controlled modification and verification loops |
-| **Offline / Personalized AI Engine** | `RESEARCH` | Local context, intent classification, recommendation and privacy-aware personalization |
-| **[Hive](https://github.com/Invens/hive)** | `PROTOTYPE` | Public software/AI experimentation |
-| **[OpenClaw](https://github.com/Invens/openclaw)** | `PROTOTYPE` | Public agent/software exploration |
-| **[LLM Chat App Template](https://github.com/Invens/llm-chat-app-template)** | `PROTOTYPE` | LLM application architecture and chat-system experimentation |
+| **INDRA / Multi-Model Orchestrator** | `research` | classifier → scorer → orchestrator → specialized models → verifier |
+| **VectorSeed / TinySVG** | `research` | lightweight model research for structured, editable SVG generation |
+| **RepoMind** | `prototype` | repository-aware engineering agent with controlled modification and verification loops |
+| **Offline / Personalized AI Engine** | `research` | local context, intent classification, recommendation and privacy-aware personalization |
+| **[Hive](https://github.com/Invens/hive)** | `prototype` | public software/AI experimentation |
+| **[OpenClaw](https://github.com/Invens/openclaw)** | `prototype` | public agent/software exploration |
+| **[LLM Chat App Template](https://github.com/Invens/llm-chat-app-template)** | `prototype` | LLM application architecture and chat-system experimentation |
 
 </details>
 
 <details>
-<summary><strong>04 / Products · SaaS · Application Platforms</strong> &nbsp; <code>11 projects</code></summary>
+<summary><strong>products · SaaS · applications</strong> — 11 projects</summary>
 <br/>
 
-| Project | State | Scope |
+| Project | State | Notes |
 |---|---|---|
-| **SocialHub** | `BUILDING` | AI generation, review, scheduling, publishing and analytics workflows |
-| **Fluencerz** | `PRIVATE` | Influencer marketing, creators, brands, campaigns, chat and admin workflows |
-| **LokiSurf** | `BUILDING` | Gaming discovery, frontend, search, themes, SEO, dashboard and AI content |
-| **DhanWise** | `CONCEPT` | Personal-finance intelligence, reconciled ledger and assistant workflows |
-| **CleanMyBG** | `PRIVATE` | Background-removal SaaS, auth, subscriptions, credits, payments and usage controls |
-| **Advocate Matrimony** | `LIVE` | Android product, Fastify/MongoDB backend, migration and deployment work |
-| **IndiTeppich** | `PRIVATE` | E-commerce storefront, backend, catalog and administrative workflows |
-| **GrowwPaisa** | `PRIVATE` | Finance/product web application with frontend and backend work |
-| **Social Impact Platform** | `CONCEPT` | Discovery and documentation platform for social and humanitarian work |
-| **CoupleUp** | `ARCHIVE` | Relationship/matching application with frontend and backend systems |
-| **Job Portal** | `PROTOTYPE` | Employment marketplace and backend workflow project |
+| **SocialHub** | `building` | AI generation, review, scheduling, publishing and analytics workflows |
+| **Fluencerz** | `private` | influencer marketing, creators, brands, campaigns, chat and admin workflows |
+| **LokiSurf** | `building` | gaming discovery, frontend, search, themes, SEO, dashboard and AI content |
+| **DhanWise** | `concept` | personal-finance intelligence, reconciled ledger and assistant workflows |
+| **CleanMyBG** | `private` | background-removal SaaS, auth, subscriptions, credits, payments and usage controls |
+| **Advocate Matrimony** | `live` | Android product, Fastify/MongoDB backend, migration and deployment work |
+| **IndiTeppich** | `private` | e-commerce storefront, backend, catalog and administrative workflows |
+| **GrowwPaisa** | `private` | finance/product web application with frontend and backend work |
+| **Social Impact Platform** | `concept` | discovery and documentation platform for social and humanitarian work |
+| **CoupleUp** | `archive` | relationship/matching application with frontend and backend systems |
+| **Job Portal** | `prototype` | employment marketplace and backend workflow project |
 
 </details>
 
 <details>
-<summary><strong>05 / AdTech · Affiliate · Commerce</strong> &nbsp; <code>12 projects</code></summary>
+<summary><strong>adtech · affiliate · commerce</strong> — 12 projects</summary>
 <br/>
 
-| Project | State | Scope |
+| Project | State | Notes |
 |---|---|---|
-| **AdStudioz Platform** | `PRIVATE` | Advertising/publisher ecosystem and campaign platform components |
-| **AdStudioz Tracking** | `PRIVATE` | Event, attribution and conversion-tracking infrastructure |
-| **Publisher.AdStudioz** | `PRIVATE` | Publisher-facing advertising platform |
-| **Affiliate Website Platform** | `BUILDING` | Product/comparison content, affiliate links, SEO, dashboard and Impact integration |
-| **Affiliate Blog Engine** | `PRIVATE` | Automated affiliate-content frontend/backend/dashboard stack |
-| **DealskyPro** | `ARCHIVE` | Products, reviews, deals and buying-guide platform |
-| **EasyShopPrice** | `PRIVATE` | Product discovery, price comparison and affiliate commerce system |
-| **Amazon Affiliate Automation** | `PROTOTYPE` | Affiliate product and publishing automation |
-| **Trivogames / Trackier Signup Tracking** | `PRIVATE` | Click-ID capture, attribution, signup pixel and campaign tracking integration |
-| **DSP** | `PROTOTYPE` | Demand-side advertising experiment |
-| **Ads Tester** | `PROTOTYPE` | Advertising integration/testing utilities |
-| **Tracking Code** | `PROTOTYPE` | Small attribution and tracking utility work |
+| **AdStudioz Platform** | `private` | advertising/publisher ecosystem and campaign platform components |
+| **AdStudioz Tracking** | `private` | event, attribution and conversion-tracking infrastructure |
+| **Publisher.AdStudioz** | `private` | publisher-facing advertising platform |
+| **Affiliate Website Platform** | `building` | product/comparison content, affiliate links, SEO, dashboard and Impact integration |
+| **Affiliate Blog Engine** | `private` | automated affiliate-content frontend/backend/dashboard stack |
+| **DealskyPro** | `archive` | products, reviews, deals and buying-guide platform |
+| **EasyShopPrice** | `private` | product discovery, price comparison and affiliate commerce system |
+| **Amazon Affiliate Automation** | `prototype` | affiliate product and publishing automation |
+| **Trivogames / Trackier Signup Tracking** | `private` | click-ID capture, attribution, signup pixel and campaign tracking integration |
+| **DSP** | `prototype` | demand-side advertising experiment |
+| **Ads Tester** | `prototype` | advertising integration/testing utilities |
+| **Tracking Code** | `prototype` | small attribution and tracking utility work |
 
 </details>
 
 <details>
-<summary><strong>06 / Media · Content Automation</strong> &nbsp; <code>02 projects</code></summary>
+<summary><strong>media · content automation</strong> — 2 projects</summary>
 <br/>
 
-| Project | State | Scope |
+| Project | State | Notes |
 |---|---|---|
-| **CS Explainer Video Engine** | `PROTOTYPE` | Topic → script → scenes → voice → captions → Remotion render pipeline |
-| **Cat Grooming / Rescue Shorts Engine** | `BUILDING` | Repeatable 3-clip Veo storytelling and visual continuity workflow |
+| **CS Explainer Video Engine** | `prototype` | topic → script → scenes → voice → captions → Remotion render pipeline |
+| **Cat Grooming / Rescue Shorts Engine** | `building` | repeatable 3-clip Veo storytelling and visual-continuity workflow |
 
 </details>
 
 <details>
-<summary><strong>07 / Infrastructure · DevOps · Enterprise</strong> &nbsp; <code>03 projects</code></summary>
+<summary><strong>infrastructure · DevOps · enterprise</strong> — 3 projects</summary>
 <br/>
 
-| Project | State | Scope |
+| Project | State | Notes |
 |---|---|---|
-| **Lightweight Coolify-style Server Manager** | `CONCEPT` | Minimal Docker website/API management on Ubuntu |
-| **Multi-Server Coolify Infrastructure** | `PRIVATE` | Ubuntu, Docker, Coolify, remote servers and multi-service deployments |
-| **Alonsa Group AI / Odoo System** | `CONCEPT` | Odoo workflows plus AI-assisted OCR, catalog content and publishing pipeline |
+| **Lightweight Coolify-style Server Manager** | `concept` | minimal Docker website/API management on Ubuntu |
+| **Multi-Server Coolify Infrastructure** | `private` | Ubuntu, Docker, Coolify, remote servers and multi-service deployments |
+| **Alonsa Group AI / Odoo System** | `concept` | Odoo workflows plus AI-assisted OCR, catalog content and publishing pipeline |
 
 </details>
 
 <details>
-<summary><strong>08 / Earlier Builds · Experiments</strong> &nbsp; <code>09 projects</code></summary>
+<summary><strong>earlier builds</strong> — 9 projects</summary>
 <br/>
 
-| Project | State | Scope |
+| Project | State | Notes |
 |---|---|---|
-| **Wedding Manage** | `ARCHIVE` | Wedding/event-management application |
-| **Fashion** | `ARCHIVE` | Earlier fashion application project |
-| **FashionApp** | `ARCHIVE` | Mobile fashion application iteration |
-| **DesignIndianHomes** | `ARCHIVE` | Home/design platform and dashboard iterations |
-| **Boots & Crampons** | `ARCHIVE` | Commercial/e-commerce frontend and backend work |
-| **Tally9** | `ARCHIVE` | Business/accounting-oriented application |
-| **Gamora / Gamora.world** | `ARCHIVE` | Web/application platform across multiple iterations |
-| **GreenLantern** | `ARCHIVE` | Earlier public software project |
-| **AR Instant App** | `ARCHIVE` | Augmented-reality/mobile experiment |
+| **Wedding Manage** | `archive` | wedding/event-management application |
+| **Fashion** | `archive` | earlier fashion application project |
+| **FashionApp** | `archive` | mobile fashion application iteration |
+| **DesignIndianHomes** | `archive` | home/design platform and dashboard iterations |
+| **Boots & Crampons** | `archive` | commercial/e-commerce frontend and backend work |
+| **Tally9** | `archive` | business/accounting-oriented application |
+| **Gamora / Gamora.world** | `archive` | web/application platform across multiple iterations |
+| **GreenLantern** | `archive` | earlier public software project |
+| **AR Instant App** | `archive` | augmented-reality/mobile experiment |
 
 </details>
 
-<br/>
-
-> **OPERATING NOTE** — Understand the system → reduce unnecessary layers → build the smallest useful path → instrument failure → ship → learn from production.
+---
 
 <details>
-<summary><strong>Runtime / current tools</strong></summary>
+<summary><strong>tools I use often</strong></summary>
 <br/>
 
 `Python` · `TypeScript` · `JavaScript` · `Dart` · `Node.js` · `Fastify` · `Flutter` · `PyTorch` · `MySQL` · `MongoDB` · `Redis` · `Linux` · `Docker` · `Nginx` · `Coolify`
 
-<sub>The stack changes by problem; it is not the identity of the work.</sub>
-
 </details>
 
 <br/>
 
+**How I usually work:** understand the system → remove unnecessary layers → build the smallest useful path → watch how it fails → ship → improve it.
+
 <p align="center">
-  <strong>ABHISHEK KUMAR</strong><br/>
-  <sub>Software Engineer · India</sub><br/><br/>
-  <a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:abhisec.tech@gmail.com">abhisec.tech@gmail.com</a>
+  <sub>Abhishek Kumar · <a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a> · <a href="mailto:abhisec.tech@gmail.com">abhisec.tech@gmail.com</a></sub>
 </p>
