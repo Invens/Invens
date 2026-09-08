@@ -1,0 +1,42 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="560" rx="20" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1198" height="558" rx="19" stroke="#262C36"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="48" y="48" fill="#727B89" font-size="12" letter-spacing="2">OPEN QUESTIONS / LAB NOTE</text>
+    <text x="1150" y="48" fill="#4D5664" font-size="11" text-anchor="end" letter-spacing="1.5">WORK IN PROGRESS</text>
+
+    <path d="M48 76H1152" stroke="#20262F"/>
+    <path d="M190 76V516" stroke="#20262F"/>
+
+    <!-- 01 -->
+    <text x="72" y="140" fill="#58A6FF" font-size="30" font-weight="700">01</text>
+    <text x="72" y="164" fill="#5D6674" font-size="10" letter-spacing="1.4">ROUTING</text>
+    <text x="230" y="128" fill="#F0F6FC" font-size="21" font-weight="700">Can a small orchestrator make a network of models</text>
+    <text x="230" y="158" fill="#F0F6FC" font-size="21" font-weight="700">more useful than one model doing everything?</text>
+    <text x="230" y="190" fill="#8B949E" font-size="12">classifier → scorer → orchestrator → specialist models → verifier</text>
+    <text x="1086" y="154" fill="#3FB950" font-size="11" text-anchor="end" letter-spacing="1.2">ACTIVE</text>
+
+    <path d="M48 220H1152" stroke="#20262F"/>
+
+    <!-- 02 -->
+    <text x="72" y="284" fill="#A371F7" font-size="30" font-weight="700">02</text>
+    <text x="72" y="308" fill="#5D6674" font-size="10" letter-spacing="1.4">VECTOR</text>
+    <text x="230" y="272" fill="#F0F6FC" font-size="21" font-weight="700">Can a lightweight model generate graphics as structure,</text>
+    <text x="230" y="302" fill="#F0F6FC" font-size="21" font-weight="700">not just pixels?</text>
+    <text x="230" y="334" fill="#8B949E" font-size="12">prompt → tokenized geometry → valid SVG → editable artifact</text>
+    <text x="1086" y="298" fill="#D29922" font-size="11" text-anchor="end" letter-spacing="1.2">PROTOTYPE</text>
+
+    <path d="M48 364H1152" stroke="#20262F"/>
+
+    <!-- 03 -->
+    <text x="72" y="428" fill="#3FB950" font-size="30" font-weight="700">03</text>
+    <text x="72" y="452" fill="#5D6674" font-size="10" letter-spacing="1.4">BROWSER</text>
+    <text x="230" y="416" fill="#F0F6FC" font-size="21" font-weight="700">Can software understand browsing intent closely enough</text>
+    <text x="230" y="446" fill="#F0F6FC" font-size="21" font-weight="700">to help without becoming surveillance?</text>
+    <text x="230" y="478" fill="#8B949E" font-size="12">local context → privacy boundary → useful recommendation → user control</text>
+    <text x="1086" y="442" fill="#58A6FF" font-size="11" text-anchor="end" letter-spacing="1.2">DESIGNING</text>
+
+    <text x="48" y="530" fill="#4D5664" font-size="10" letter-spacing="1.5">THE PROFILE IS A MAP OF QUESTIONS + SYSTEMS, NOT A SKILL INVENTORY.</text>
+  </g>
+</svg>
