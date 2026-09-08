@@ -1,76 +1,97 @@
-<svg width="1200" height="540" viewBox="0 0 1200 540" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="540" rx="22" fill="#0D1117"/>
-  <rect x="1" y="1" width="1198" height="538" rx="21" stroke="#30363D"/>
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="18" fill="#F1EEE6"/>
+  <rect x="1" y="1" width="1198" height="758" rx="17" stroke="#151515" stroke-width="2"/>
+  <rect x="0" y="0" width="1200" height="82" rx="18" fill="#151515"/>
+  <rect x="0" y="64" width="1200" height="18" fill="#151515"/>
 
-  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
-    <text x="50" y="50" fill="#7D8590" font-size="13" font-weight="600" letter-spacing="2.1">PROJECT INDEX</text>
-    <text x="1150" y="50" text-anchor="end" fill="#7D8590" font-size="12" letter-spacing="1.5">55 PROJECTS / 8 DOMAINS</text>
-    <path d="M50 72H1150" stroke="#30363D"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="38" y="50" fill="#F1EEE6" font-size="13" font-weight="700" letter-spacing="2.1">PROJECT ATLAS / COMPLETE INDEX</text>
+    <text x="1154" y="50" text-anchor="end" fill="#FF795A" font-size="12" font-weight="700" letter-spacing="1.7">55 PROJECTS · 8 DOMAINS</text>
 
-    <g transform="translate(50 104)">
-      <text x="0" y="0" fill="#58A6FF" font-size="12" font-weight="700" letter-spacing="1.4">01</text>
-      <text x="42" y="0" fill="#F0F6FC" font-size="20" font-weight="650">Browser · Privacy · Intelligence</text>
-      <text x="42" y="28" fill="#7D8590" font-size="14">Zylo / Loki ecosystem, VPN, browser context, DMP, recommendations</text>
-      <text x="500" y="0" text-anchor="end" fill="#7D8590" font-size="13">06</text>
-      <path d="M0 56H500" stroke="#21262D"/>
+    <text x="38" y="122" fill="#6D685F" font-size="10" letter-spacing="1.5">DOMAIN</text>
+    <text x="216" y="122" fill="#6D685F" font-size="10" letter-spacing="1.5">WORKSTREAM</text>
+    <text x="1134" y="122" text-anchor="end" fill="#6D685F" font-size="10" letter-spacing="1.5">COUNT</text>
+    <path d="M38 140H1162" stroke="#BDB7AB"/>
+
+    <!-- 01 -->
+    <g transform="translate(0 158)">
+      <rect x="38" y="0" width="128" height="54" fill="#151515"/>
+      <text x="54" y="22" fill="#FF795A" font-size="11" font-weight="700">01</text>
+      <text x="54" y="42" fill="#F1EEE6" font-size="11" font-weight="700">BROWSER</text>
+      <text x="216" y="20" fill="#151515" font-size="20" font-weight="800">Browser · Privacy · Intelligence</text>
+      <text x="216" y="45" fill="#6D685F" font-size="12">Zylo VPN · Zylo Browser · DMP · Suggestive Ads · Companion · Tracker</text>
+      <text x="1134" y="34" text-anchor="end" fill="#151515" font-size="28" font-weight="900">06</text>
+      <path d="M216 68H1162" stroke="#D3CEC3"/>
     </g>
 
-    <g transform="translate(650 104)">
-      <text x="0" y="0" fill="#58A6FF" font-size="12" font-weight="700" letter-spacing="1.4">02</text>
-      <text x="42" y="0" fill="#F0F6FC" font-size="20" font-weight="650">ExploreAI Ecosystem</text>
-      <text x="42" y="28" fill="#7D8590" font-size="14">Discovery, backend, dashboard, SEO engine, agent architecture</text>
-      <text x="500" y="0" text-anchor="end" fill="#7D8590" font-size="13">05</text>
-      <path d="M0 56H500" stroke="#21262D"/>
+    <!-- 02 -->
+    <g transform="translate(0 238)">
+      <rect x="38" y="0" width="128" height="54" fill="#FF5A36"/>
+      <text x="54" y="22" fill="#151515" font-size="11" font-weight="700">02</text>
+      <text x="54" y="42" fill="#151515" font-size="11" font-weight="700">EXPLOREAI</text>
+      <text x="216" y="20" fill="#151515" font-size="20" font-weight="800">ExploreAI Ecosystem</text>
+      <text x="216" y="45" fill="#6D685F" font-size="12">Platform · Backend · Dashboard · AI SEO Engine · Agent V2</text>
+      <text x="1134" y="34" text-anchor="end" fill="#151515" font-size="28" font-weight="900">05</text>
+      <path d="M216 68H1162" stroke="#D3CEC3"/>
     </g>
 
-    <g transform="translate(50 206)">
-      <text x="0" y="0" fill="#58A6FF" font-size="12" font-weight="700" letter-spacing="1.4">03</text>
-      <text x="42" y="0" fill="#F0F6FC" font-size="20" font-weight="650">AI · Research · Generative</text>
-      <text x="42" y="28" fill="#7D8590" font-size="14">Orchestration, agents, SVG generation, local intelligence</text>
-      <text x="500" y="0" text-anchor="end" fill="#7D8590" font-size="13">07</text>
-      <path d="M0 56H500" stroke="#21262D"/>
+    <!-- 03 -->
+    <g transform="translate(0 318)">
+      <rect x="38" y="0" width="128" height="54" fill="#151515"/>
+      <text x="54" y="22" fill="#FF795A" font-size="11" font-weight="700">03</text>
+      <text x="54" y="42" fill="#F1EEE6" font-size="11" font-weight="700">AI / R&amp;D</text>
+      <text x="216" y="20" fill="#151515" font-size="20" font-weight="800">AI · Research · Generative Systems</text>
+      <text x="216" y="45" fill="#6D685F" font-size="12">INDRA · VectorSeed · RepoMind · Personalized AI · Hive · OpenClaw · LLM Chat</text>
+      <text x="1134" y="34" text-anchor="end" fill="#151515" font-size="28" font-weight="900">07</text>
+      <path d="M216 68H1162" stroke="#D3CEC3"/>
     </g>
 
-    <g transform="translate(650 206)">
-      <text x="0" y="0" fill="#58A6FF" font-size="12" font-weight="700" letter-spacing="1.4">04</text>
-      <text x="42" y="0" fill="#F0F6FC" font-size="20" font-weight="650">Products · SaaS · Applications</text>
-      <text x="42" y="28" fill="#7D8590" font-size="14">Consumer products, client platforms, marketplaces, utilities</text>
-      <text x="500" y="0" text-anchor="end" fill="#7D8590" font-size="13">11</text>
-      <path d="M0 56H500" stroke="#21262D"/>
+    <!-- 04 -->
+    <g transform="translate(0 398)">
+      <rect x="38" y="0" width="128" height="54" fill="#151515"/>
+      <text x="54" y="22" fill="#FF795A" font-size="11" font-weight="700">04</text>
+      <text x="54" y="42" fill="#F1EEE6" font-size="11" font-weight="700">PRODUCTS</text>
+      <text x="216" y="20" fill="#151515" font-size="20" font-weight="800">Products · SaaS · Applications</text>
+      <text x="216" y="45" fill="#6D685F" font-size="12">SocialHub · Fluencerz · LokiSurf · DhanWise · CleanMyBG · Advocate · IndiTeppich +</text>
+      <text x="1134" y="34" text-anchor="end" fill="#151515" font-size="28" font-weight="900">11</text>
+      <path d="M216 68H1162" stroke="#D3CEC3"/>
     </g>
 
-    <g transform="translate(50 308)">
-      <text x="0" y="0" fill="#58A6FF" font-size="12" font-weight="700" letter-spacing="1.4">05</text>
-      <text x="42" y="0" fill="#F0F6FC" font-size="20" font-weight="650">AdTech · Affiliate · Commerce</text>
-      <text x="42" y="28" fill="#7D8590" font-size="14">Attribution, publisher systems, affiliate content, commerce tooling</text>
-      <text x="500" y="0" text-anchor="end" fill="#7D8590" font-size="13">12</text>
-      <path d="M0 56H500" stroke="#21262D"/>
+    <!-- 05 -->
+    <g transform="translate(0 478)">
+      <rect x="38" y="0" width="128" height="54" fill="#FF5A36"/>
+      <text x="54" y="22" fill="#151515" font-size="11" font-weight="700">05</text>
+      <text x="54" y="42" fill="#151515" font-size="11" font-weight="700">ADTECH</text>
+      <text x="216" y="20" fill="#151515" font-size="20" font-weight="800">AdTech · Affiliate · Commerce</text>
+      <text x="216" y="45" fill="#6D685F" font-size="12">AdStudioz · Publisher · Affiliate systems · DealskyPro · EasyShopPrice · Trackier +</text>
+      <text x="1134" y="34" text-anchor="end" fill="#151515" font-size="28" font-weight="900">12</text>
+      <path d="M216 68H1162" stroke="#D3CEC3"/>
     </g>
 
-    <g transform="translate(650 308)">
-      <text x="0" y="0" fill="#58A6FF" font-size="12" font-weight="700" letter-spacing="1.4">06</text>
-      <text x="42" y="0" fill="#F0F6FC" font-size="20" font-weight="650">Media · Content Automation</text>
-      <text x="42" y="28" fill="#7D8590" font-size="14">Script-to-video systems and repeatable generative media workflows</text>
-      <text x="500" y="0" text-anchor="end" fill="#7D8590" font-size="13">02</text>
-      <path d="M0 56H500" stroke="#21262D"/>
+    <!-- 06 -->
+    <g transform="translate(0 558)">
+      <rect x="38" y="0" width="128" height="54" fill="#151515"/>
+      <text x="54" y="22" fill="#FF795A" font-size="11" font-weight="700">06</text>
+      <text x="54" y="42" fill="#F1EEE6" font-size="11" font-weight="700">MEDIA</text>
+      <text x="216" y="20" fill="#151515" font-size="20" font-weight="800">Media · Content Automation</text>
+      <text x="216" y="45" fill="#6D685F" font-size="12">CS Explainer Engine · Cat Grooming / Rescue Shorts Engine</text>
+      <text x="1134" y="34" text-anchor="end" fill="#151515" font-size="28" font-weight="900">02</text>
+      <path d="M216 68H1162" stroke="#D3CEC3"/>
     </g>
 
-    <g transform="translate(50 410)">
-      <text x="0" y="0" fill="#58A6FF" font-size="12" font-weight="700" letter-spacing="1.4">07</text>
-      <text x="42" y="0" fill="#F0F6FC" font-size="20" font-weight="650">Infrastructure · DevOps · Enterprise</text>
-      <text x="42" y="28" fill="#7D8590" font-size="14">Docker, Coolify, multi-server operations, enterprise systems</text>
-      <text x="500" y="0" text-anchor="end" fill="#7D8590" font-size="13">03</text>
-      <path d="M0 56H500" stroke="#21262D"/>
+    <!-- 07 -->
+    <g transform="translate(0 638)">
+      <rect x="38" y="0" width="128" height="54" fill="#151515"/>
+      <text x="54" y="22" fill="#FF795A" font-size="11" font-weight="700">07</text>
+      <text x="54" y="42" fill="#F1EEE6" font-size="11" font-weight="700">INFRA</text>
+      <text x="216" y="20" fill="#151515" font-size="20" font-weight="800">Infrastructure · DevOps · Enterprise</text>
+      <text x="216" y="45" fill="#6D685F" font-size="12">Server Manager · Multi-Server Coolify · Alonsa AI/Odoo</text>
+      <text x="1134" y="34" text-anchor="end" fill="#151515" font-size="28" font-weight="900">03</text>
     </g>
 
-    <g transform="translate(650 410)">
-      <text x="0" y="0" fill="#58A6FF" font-size="12" font-weight="700" letter-spacing="1.4">08</text>
-      <text x="42" y="0" fill="#F0F6FC" font-size="20" font-weight="650">Earlier Builds · Experiments</text>
-      <text x="42" y="28" fill="#7D8590" font-size="14">Older apps and experiments that show the path into current work</text>
-      <text x="500" y="0" text-anchor="end" fill="#7D8590" font-size="13">09</text>
-      <path d="M0 56H500" stroke="#21262D"/>
-    </g>
-
-    <text x="50" y="512" fill="#5F6A77" font-size="11" letter-spacing="1.2">CATEGORY DESCRIBES THE WORK. STATUS DESCRIBES ITS REAL MATURITY.</text>
+    <!-- archive rail -->
+    <rect x="1018" y="710" width="144" height="28" fill="#151515"/>
+    <text x="1032" y="729" fill="#F1EEE6" font-size="10" font-weight="700" letter-spacing="1.2">08 ARCHIVE / 09</text>
+    <text x="38" y="730" fill="#6D685F" font-size="10" letter-spacing="1.4">EARLIER BUILDS: WEDDING · FASHION · DESIGNINDIANHOMES · BOOTS &amp; CRAMPONS · TALLY9 · GAMORA · GREENLANTERN · AR</text>
   </g>
 </svg>
