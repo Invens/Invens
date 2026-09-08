@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Abhishek Kumar — software engineer" width="100%" />
+  <img src="./assets/hero.svg" alt="Engineering work overview" width="100%" />
 </p>
 
 <p align="center">
@@ -171,5 +171,5 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 **How I usually work:** understand the system → remove unnecessary layers → build the smallest useful path → watch how it fails → ship → improve it.
 
 <p align="center">
-  <sub>Abhishek Kumar · <a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a> · <a href="mailto:abhisec.tech@gmail.com">abhisec.tech@gmail.com</a></sub>
+  <sub><a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a> · <a href="mailto:abhisec.tech@gmail.com">abhisec.tech@gmail.com</a></sub>
 </p>
