@@ -1,0 +1,16 @@
+<svg width="1200" height="176" viewBox="0 0 1200 176" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="176" rx="16" fill="#F1EEE6"/>
+  <rect x="1" y="1" width="1198" height="174" rx="15" stroke="#151515" stroke-width="2"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="30" y="34" fill="#151515" font-size="11" font-weight="700" letter-spacing="1.8">LIFECYCLE KEY / READ THE WORK CORRECTLY</text>
+    <path d="M30 50H1170" stroke="#BDB7AB"/>
+
+    <g transform="translate(30 72)"><rect width="126" height="32" rx="16" fill="#17271A" stroke="#4CAF62"/><text x="63" y="21" text-anchor="middle" fill="#247D36" font-size="10" font-weight="700" letter-spacing="1.2">LIVE</text><text x="0" y="58" fill="#6D685F" font-size="9">publicly available</text></g>
+    <g transform="translate(188 72)"><rect width="126" height="32" rx="16" fill="#2A241F" stroke="#FF5A36"/><text x="63" y="21" text-anchor="middle" fill="#C83E20" font-size="10" font-weight="700" letter-spacing="1.2">BUILDING</text><text x="0" y="58" fill="#6D685F" font-size="9">active development</text></g>
+    <g transform="translate(346 72)"><rect width="126" height="32" rx="16" fill="#E3DED3" stroke="#777168"/><text x="63" y="21" text-anchor="middle" fill="#4F4A43" font-size="10" font-weight="700" letter-spacing="1.2">PRIVATE</text><text x="0" y="58" fill="#6D685F" font-size="9">client / internal</text></g>
+    <g transform="translate(504 72)"><rect width="126" height="32" rx="16" fill="#E7E1F5" stroke="#7A65B6"/><text x="63" y="21" text-anchor="middle" fill="#624AA0" font-size="10" font-weight="700" letter-spacing="1.2">PROTOTYPE</text><text x="0" y="58" fill="#6D685F" font-size="9">functional experiment</text></g>
+    <g transform="translate(662 72)"><rect width="126" height="32" rx="16" fill="#E2E8F4" stroke="#6479B5"/><text x="63" y="21" text-anchor="middle" fill="#5068A9" font-size="10" font-weight="700" letter-spacing="1.2">RESEARCH</text><text x="0" y="58" fill="#6D685F" font-size="9">investigation / training</text></g>
+    <g transform="translate(820 72)"><rect width="126" height="32" rx="16" fill="#EFE3CD" stroke="#B98939"/><text x="63" y="21" text-anchor="middle" fill="#966A23" font-size="10" font-weight="700" letter-spacing="1.2">CONCEPT</text><text x="0" y="58" fill="#6D685F" font-size="9">designed, not built</text></g>
+    <g transform="translate(978 72)"><rect width="126" height="32" rx="16" fill="#E5E2DD" stroke="#918B82"/><text x="63" y="21" text-anchor="middle" fill="#67625A" font-size="10" font-weight="700" letter-spacing="1.2">ARCHIVE</text><text x="0" y="58" fill="#6D685F" font-size="9">older / completed</text></g>
+  </g>
+</svg>
