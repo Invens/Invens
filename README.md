@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Engineering work overview" width="100%" />
+  <img src="./assets/profile-header-v2.svg" alt="Engineering work overview" width="100%" />
 </p>
 
 <p align="center">
