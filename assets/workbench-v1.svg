@@ -1,0 +1,63 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg{fill:#0d1117}.panel{fill:#11161d}.border{stroke:#30363d}.primary{fill:#f0f6fc}.muted{fill:#8b949e}.soft{fill:#6e7681}.signal{fill:#56d364}.blue{fill:#58a6ff}
+    @media (prefers-color-scheme: light){.bg{fill:#ffffff}.panel{fill:#f6f8fa}.border{stroke:#d0d7de}.primary{fill:#1f2328}.muted{fill:#59636e}.soft{fill:#818b98}.signal{fill:#1f883d}.blue{fill:#0969da}}
+  </style>
+  <rect width="1200" height="430" rx="14" class="bg"/>
+  <rect x="1" y="1" width="1198" height="428" rx="13" fill="none" class="border"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="42" y="46" class="muted" font-size="13">current workbench</text>
+    <text x="1158" y="46" text-anchor="end" class="soft" font-size="12">6 active threads</text>
+
+    <path d="M42 68H1158" class="border"/>
+
+    <g transform="translate(42 96)">
+      <text x="0" y="20" class="soft" font-size="12">01</text>
+      <circle cx="48" cy="15" r="4" class="blue"/>
+      <text x="70" y="20" class="primary" font-size="21" font-weight="650">Zylo Browser</text>
+      <text x="70" y="45" class="muted" font-size="13">privacy-first browsing · VPN · contextual intelligence</text>
+      <text x="1068" y="20" text-anchor="end" class="blue" font-size="12">building</text>
+      <path d="M0 67H1116" class="border"/>
+    </g>
+
+    <g transform="translate(42 158)">
+      <text x="0" y="20" class="soft" font-size="12">02</text>
+      <circle cx="48" cy="15" r="4" class="signal"/>
+      <text x="70" y="20" class="primary" font-size="21" font-weight="650">ExploreAI.tools</text>
+      <text x="70" y="45" class="muted" font-size="13">AI discovery · search · structured content · SEO systems</text>
+      <text x="1068" y="20" text-anchor="end" class="signal" font-size="12">live</text>
+      <path d="M0 67H1116" class="border"/>
+    </g>
+
+    <g transform="translate(42 220)">
+      <text x="0" y="20" class="soft" font-size="12">03</text>
+      <circle cx="48" cy="15" r="4" class="blue"/>
+      <text x="70" y="20" class="primary" font-size="21" font-weight="650">SocialHub</text>
+      <text x="70" y="45" class="muted" font-size="13">generation · review · scheduling · publishing</text>
+      <text x="1068" y="20" text-anchor="end" class="blue" font-size="12">building</text>
+      <path d="M0 67H1116" class="border"/>
+    </g>
+
+    <g transform="translate(42 282)">
+      <text x="0" y="20" class="soft" font-size="12">04</text>
+      <circle cx="48" cy="15" r="4" class="soft"/>
+      <text x="70" y="20" class="primary" font-size="21" font-weight="650">INDRA / Orchestrator</text>
+      <text x="70" y="45" class="muted" font-size="13">multi-model routing · verification · cost-aware execution</text>
+      <text x="1068" y="20" text-anchor="end" class="soft" font-size="12">research</text>
+      <path d="M0 67H1116" class="border"/>
+    </g>
+
+    <g transform="translate(42 344)">
+      <text x="0" y="20" class="soft" font-size="12">05</text>
+      <circle cx="48" cy="15" r="4" class="soft"/>
+      <text x="70" y="20" class="primary" font-size="21" font-weight="650">VectorSeed</text>
+      <text x="70" y="45" class="muted" font-size="13">small-model structured SVG generation</text>
+      <text x="532" y="20" class="soft" font-size="12">06</text>
+      <circle cx="580" cy="15" r="4" class="signal"/>
+      <text x="602" y="20" class="primary" font-size="21" font-weight="650">Advocate Matrimony</text>
+      <text x="602" y="45" class="muted" font-size="13">mobile · backend · migration · deployment</text>
+      <text x="1068" y="20" text-anchor="end" class="signal" font-size="12">live</text>
+    </g>
+  </g>
+</svg>
