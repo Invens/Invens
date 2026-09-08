@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header-v2.svg" alt="Engineering work overview" width="100%" />
+  <img src="./assets/profile-header-v3.svg" alt="Engineering work overview" width="100%" />
 </p>
 
 <p align="center">
@@ -10,27 +10,24 @@
   <a href="https://exploreai.tools/">ExploreAI</a>
 </p>
 
-I usually work end-to-end: product idea, frontend/mobile, backend, data, deployment, and the boring production problems that show up after launch.
+I usually work end-to-end: product idea, frontend/mobile, backend, data, deployment, and the production problems that show up after launch.
 
-A lot of the work below is private or experimental. I keep it here anyway because it is part of the path — I just label the state instead of pretending every project is a live startup.
-
-### working on now
-
-- **Zylo Browser** — privacy-first browsing, VPN and contextual intelligence · `building`
-- **ExploreAI.tools** — AI discovery, search, content and SEO systems · `live`
-- **SocialHub** — content generation and social publishing · `building`
-- **INDRA / Orchestrator** — multi-model routing and verification · `research`
-- **VectorSeed** — structured SVG generation with small models · `research`
-- **Advocate Matrimony** — mobile product, backend and deployment · `live`
+<p align="center">
+  <img src="./assets/workbench-v1.svg" alt="Current engineering workbench" width="100%" />
+</p>
 
 <sub>`live` public product · `building` active work · `private` client/internal · `prototype` working experiment · `research` investigation/training · `concept` designed, not built · `archive` older/completed</sub>
 
 ---
 
-## projects
+## project directory
+
+<sub>55 projects across 8 areas. Most details stay collapsed so the profile remains readable.</sub>
+
+<br/>
 
 <details>
-<summary><strong>browser · privacy · intelligence</strong> — 6 projects</summary>
+<summary><strong>01 / browser · privacy · intelligence</strong> &nbsp; <code>06</code></summary>
 <br/>
 
 | Project | State | Notes |
@@ -45,7 +42,7 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 </details>
 
 <details>
-<summary><strong>ExploreAI ecosystem</strong> — 5 projects</summary>
+<summary><strong>02 / ExploreAI ecosystem</strong> &nbsp; <code>05</code></summary>
 <br/>
 
 | Project | State | Notes |
@@ -59,7 +56,7 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 </details>
 
 <details>
-<summary><strong>AI · research · generative systems</strong> — 7 projects</summary>
+<summary><strong>03 / AI · research · generative systems</strong> &nbsp; <code>07</code></summary>
 <br/>
 
 | Project | State | Notes |
@@ -75,7 +72,7 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 </details>
 
 <details>
-<summary><strong>products · SaaS · applications</strong> — 11 projects</summary>
+<summary><strong>04 / products · SaaS · applications</strong> &nbsp; <code>11</code></summary>
 <br/>
 
 | Project | State | Notes |
@@ -95,7 +92,7 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 </details>
 
 <details>
-<summary><strong>adtech · affiliate · commerce</strong> — 12 projects</summary>
+<summary><strong>05 / adtech · affiliate · commerce</strong> &nbsp; <code>12</code></summary>
 <br/>
 
 | Project | State | Notes |
@@ -116,7 +113,7 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 </details>
 
 <details>
-<summary><strong>media · content automation</strong> — 2 projects</summary>
+<summary><strong>06 / media · content automation</strong> &nbsp; <code>02</code></summary>
 <br/>
 
 | Project | State | Notes |
@@ -127,7 +124,7 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 </details>
 
 <details>
-<summary><strong>infrastructure · DevOps · enterprise</strong> — 3 projects</summary>
+<summary><strong>07 / infrastructure · DevOps · enterprise</strong> &nbsp; <code>03</code></summary>
 <br/>
 
 | Project | State | Notes |
@@ -139,7 +136,7 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 </details>
 
 <details>
-<summary><strong>earlier builds</strong> — 9 projects</summary>
+<summary><strong>08 / earlier builds</strong> &nbsp; <code>09</code></summary>
 <br/>
 
 | Project | State | Notes |
@@ -168,8 +165,6 @@ A lot of the work below is private or experimental. I keep it here anyway becaus
 
 <br/>
 
-**How I usually work:** understand the system → remove unnecessary layers → build the smallest useful path → watch how it fails → ship → improve it.
-
 <p align="center">
-  <sub><a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a> · <a href="mailto:abhisec.tech@gmail.com">abhisec.tech@gmail.com</a></sub>
+  <a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a> · <a href="mailto:abhisec.tech@gmail.com">abhisec.tech@gmail.com</a>
 </p>
