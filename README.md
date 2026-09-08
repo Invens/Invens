@@ -1,138 +1,135 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="ABHISHEK.SYSTEM — software engineer, product builder, systems" width="100%" />
+  <img src="./assets/hero.svg" alt="Abhishek Kumar — software engineer building systems" width="100%" />
 </p>
-
-<!--
-  ABHISHEK.SYSTEM
-  This profile is intentionally designed as a system interface, not a résumé template.
--->
-
-```text
-BOOT SEQUENCE
-──────────────────────────────────────────────────────────────────────────────
-SYSTEM_ID        INVENS
-OPERATOR         Abhishek Kumar
-ROLE             Software Engineer
-MODE             BUILD → TEST → SHIP → LEARN → REPEAT
-FOCUS            Products / AI Systems / Browsers / Backend / Infrastructure
-STATE            ● ACTIVE
-──────────────────────────────────────────────────────────────────────────────
-```
-
-I build software as **connected systems**, not isolated demos — from product interfaces and mobile clients to APIs, infrastructure, automation, browser technology, and AI orchestration.
-
-<br/>
-
-## `01 / ACTIVE_PROCESSES`
-
-```text
-PID   PROCESS                 DOMAIN                         STATE
-──────────────────────────────────────────────────────────────────────────────
-101   ZYLO                    Browser · Privacy · VPN · AI   ● RUNNING
-204   EXPLOREAI               AI Discovery · Search · SEO   ● LIVE
-318   SOCIALHUB               Publishing · Automation       ● BUILDING
-407   AI ORCHESTRATOR         Multi-model intelligence      ◉ RESEARCH
-512   VECTORSEED              Generative vector systems     ◉ LAB
-611   LOKISURF                Gaming · Discovery · SEO       ● ACTIVE
-──────────────────────────────────────────────────────────────────────────────
-```
 
 <p align="center">
-  <img src="./assets/system-map.svg" alt="Abhishek engineering system map" width="100%" />
+  <sub><code>PRODUCTS</code> &nbsp;·&nbsp; <code>AI SYSTEMS</code> &nbsp;·&nbsp; <code>BROWSERS</code> &nbsp;·&nbsp; <code>BACKEND</code> &nbsp;·&nbsp; <code>INFRA</code></sub>
 </p>
 
 <br/>
 
-## `02 / ENGINEERING_SIGNAL`
+## `00 // POSITION`
 
-```text
-PRODUCT ENGINEERING
-  interfaces ── mobile ── backend ── deployment ── operations
+I’m **Abhishek Kumar**, a software engineer who works across the full path from an idea to a running system.
 
-INTELLIGENT SYSTEMS
-  classifiers ── model routing ── agents ── verification ── generation
+I’m most interested in problems where product engineering meets **AI, browser technology, backend architecture, automation, and infrastructure**. I prefer understanding the whole system over optimizing one isolated layer.
 
-BROWSER SYSTEMS
-  GeckoView ── Chromium ── privacy ── VPN ── contextual intelligence
-
-INFRASTRUCTURE
-  Linux ── Docker ── Nginx ── CI/CD ── self-hosting ── cloud operations
-```
-
-The tools change. The operating pattern does not: **understand the system, remove unnecessary complexity, make it observable, then ship it.**
+> **Current direction:** build software that understands context, chooses the right tools, stays observable, and gets simpler as it matures.
 
 <br/>
 
-## `03 / LAB`
+## `01 // SYSTEMS`
 
-```text
-EXP-01  MULTI-MODEL ORCHESTRATION
-        Can a smaller orchestration layer route work across specialized
-        models more efficiently than sending every task to one large model?
+<p align="center">
+  <img src="./assets/system-map.svg" alt="Selected product and research systems" width="100%" />
+</p>
 
-EXP-02  STRUCTURED VECTOR GENERATION
-        Can a lightweight generative model produce useful, editable SVG
-        structure instead of treating graphics as pixels?
+### `P-01` ZYLO
+**Browser + privacy infrastructure.** A product surface combining browser technology, VPN, contextual intelligence, recommendation systems, and mobile delivery.
 
-EXP-03  BROWSER INTELLIGENCE
-        Can contextual assistance live close to browsing behavior while
-        preserving a clear privacy boundary?
+`GeckoView / Flutter / Node.js / VPN / DMP / AI`
 
-EXP-04  SUGGESTIVE COMMERCE
-        Can software understand product intent and surface genuinely better
-        alternatives instead of simply showing another advertisement?
-```
+### `P-02` EXPLOREAI
+**AI discovery infrastructure.** Search, structured discovery, content systems, SEO automation, and tooling around the fast-changing AI ecosystem.
 
-<br/>
+[`exploreai.tools`](https://exploreai.tools/)
 
-## `04 / SOURCE_CHANNELS`
+### `P-03` SOCIALHUB
+**Creative publishing infrastructure.** A system for generating, reviewing, scheduling, and publishing content across social platforms without treating automation as a collection of disconnected scripts.
 
-A few public channels from the larger system:
+### `R-01` ORCHESTRATION
+**Multi-model intelligence.** Researching task classification, routing, verification, cost-aware execution, and orchestration across specialized models.
 
-```text
-SOURCE://github/Invens/hive
-SOURCE://github/Invens/openclaw
-SOURCE://github/Invens/llm-chat-app-template
-WEB://exploreai.tools
-```
-
-[**hive**](https://github.com/Invens/hive) · [**openclaw**](https://github.com/Invens/openclaw) · [**llm-chat-app-template**](https://github.com/Invens/llm-chat-app-template) · [**ExploreAI**](https://exploreai.tools/)
-
-> A large part of my production work lives in private repositories. Public repository count is not the same thing as engineering output.
+### `R-02` VECTORSEED
+**Structured generative graphics.** Exploring small models that generate editable SVG structure instead of raster pixels.
 
 <br/>
 
-## `05 / RUNTIME`
+## `02 // OPERATING MODEL`
 
 ```text
-LANGUAGES        Python / TypeScript / JavaScript / Dart
-BACKEND          Node.js / Express / Fastify
-MOBILE           Flutter / Android / iOS
-DATA             MySQL / MongoDB / Redis
-AI               PyTorch / LLM APIs / Agents / Routing
-SYSTEMS          Linux / Docker / Nginx / Coolify
-WORKSTYLE        architecture-first / production-minded / iterative
+OBSERVE → MODEL → SIMPLIFY → BUILD → INSTRUMENT → SHIP → ITERATE
 ```
 
-No badge wall. No framework collection. These are simply tools currently available in the path.
+- **Architecture before accumulation.** Adding another service or framework is not a substitute for understanding the problem.
+- **Production changes the design.** Deployment, failure modes, observability, data flow, and maintenance are part of engineering—not cleanup work.
+- **Use AI as infrastructure, not decoration.** Models are useful when they improve an actual system boundary, workflow, or decision.
 
 <br/>
 
-## `06 / NETWORK`
+## `03 // LAB`
+
+| ID | Question | State |
+|:--|:--|:--|
+| `EXP-01` | Can a smaller orchestrator route work across specialized models more efficiently than one large model handling everything? | **ACTIVE** |
+| `EXP-02` | Can lightweight models generate useful, editable vector structure? | **PROTOTYPE** |
+| `EXP-03` | Can browser intelligence use context while preserving a clear privacy boundary? | **ACTIVE** |
+| `EXP-04` | Can recommendation software optimize for user value instead of another ad impression? | **DESIGNING** |
+
+<br/>
+
+## `04 // RUNTIME`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**BUILD**
+
+`Python` `TypeScript` `JavaScript` `Dart`
+
+`Node.js` `Fastify` `Express` `Flutter`
+
+</td>
+<td width="33%" valign="top">
+
+**OPERATE**
+
+`Linux` `Docker` `Nginx`
+
+`Coolify` `Redis` `MySQL` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+**INTELLIGENCE**
+
+`PyTorch` `LLM APIs`
+
+`Agents` `Routing` `Verification` `Recommendation`
+
+</td>
+</tr>
+</table>
+
+The stack is not the identity. It is the current toolset.
+
+<br/>
+
+## `05 // PUBLIC SIGNAL`
+
+A large part of my production work lives in private repositories. The useful public surface is intentionally smaller than the total system.
+
+[`ExploreAI`](https://exploreai.tools/) &nbsp;·&nbsp; [`Repositories`](https://github.com/Invens?tab=repositories) &nbsp;·&nbsp; [`LinkedIn`](https://www.linkedin.com/in/abhisec-tech/)
+
+<br/>
+
+## `06 // NETWORK`
 
 ```text
-LINKEDIN   linkedin.com/in/abhisec-tech
-EMAIL      abhisec.tech@gmail.com
-LOCATION   India
-STATUS     open to difficult engineering problems
+operator   Abhishek Kumar
+location   India
+email      abhisec.tech@gmail.com
+linkedin   linkedin.com/in/abhisec-tech
+status     building
 ```
 
-[LinkedIn](https://www.linkedin.com/in/abhisec-tech/) · [Email](mailto:abhisec.tech@gmail.com)
+[**Email**](mailto:abhisec.tech@gmail.com) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/abhisec-tech/)
 
 <br/>
 
 <details>
-<summary><code>OPEN /dev/abhishek</code></summary>
+<summary><code>/dev/abhishek</code></summary>
 <br/>
 
 ```text
@@ -153,8 +150,6 @@ still building.
 
 <br/>
 
-```text
-──────────────────────────────────────────────────────────────────────────────
-ABHISHEK.SYSTEM                                              END OF LINE / ◉
-──────────────────────────────────────────────────────────────────────────────
-```
+<p align="center">
+  <sub><code>INVENS // BUILD THE SYSTEM, NOT THE NOISE.</code></sub>
+</p>
