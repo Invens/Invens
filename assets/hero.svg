@@ -1,74 +1,25 @@
-<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="520" rx="20" fill="#090C10"/>
-  <rect x="1" y="1" width="1198" height="518" rx="19" stroke="#262C36"/>
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="400" rx="22" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="398" rx="21" stroke="#30363D"/>
 
-  <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#58A6FF"/>
-      <stop offset="1" stop-color="#A371F7"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(940 260) rotate(90) scale(210)">
-      <stop stop-color="#58A6FF" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="54" y="58" fill="#7D8590" font-size="13" font-weight="600" letter-spacing="2.4">INVENS / ENGINEERING INDEX</text>
+    <circle cx="1116" cy="53" r="5" fill="#3FB950"/>
+    <text x="1132" y="58" fill="#7D8590" font-size="12" font-weight="600" letter-spacing="1.5">ACTIVE</text>
 
-  <rect width="1200" height="520" rx="20" fill="url(#glow)"/>
+    <text x="54" y="154" fill="#F0F6FC" font-size="58" font-weight="700" letter-spacing="-1.6">Abhishek Kumar</text>
+    <text x="56" y="198" fill="#A7B0BC" font-size="22">Software engineer building products, intelligent systems and infrastructure.</text>
 
-  <g stroke="#141A22" stroke-width="1">
-    <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200M0 320H1200M0 384H1200M0 448H1200"/>
-    <path d="M80 0V520M160 0V520M240 0V520M320 0V520M400 0V520M480 0V520M560 0V520M640 0V520M720 0V520M800 0V520M880 0V520M960 0V520M1040 0V520M1120 0V520"/>
-  </g>
+    <path d="M56 238H1144" stroke="#30363D"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="48" y="48" fill="#727B89" font-size="12" letter-spacing="2.2">INVENS / ENGINEERING FIELD NOTE</text>
-    <text x="1090" y="48" fill="#3FB950" font-size="12" text-anchor="end" letter-spacing="1.6">● ACTIVE</text>
+    <text x="56" y="282" fill="#7D8590" font-size="12" font-weight="600" letter-spacing="1.8">WORK ACROSS</text>
+    <text x="56" y="318" fill="#F0F6FC" font-size="17">Browser &amp; Privacy</text>
+    <text x="258" y="318" fill="#F0F6FC" font-size="17">AI &amp; Research</text>
+    <text x="426" y="318" fill="#F0F6FC" font-size="17">Products &amp; SaaS</text>
+    <text x="614" y="318" fill="#F0F6FC" font-size="17">AdTech &amp; Commerce</text>
+    <text x="824" y="318" fill="#F0F6FC" font-size="17">Automation</text>
+    <text x="960" y="318" fill="#F0F6FC" font-size="17">Infrastructure</text>
 
-    <text x="48" y="142" fill="#F0F6FC" font-size="62" font-weight="700" letter-spacing="-1.6">ABHISHEK</text>
-    <text x="48" y="205" fill="#F0F6FC" font-size="62" font-weight="700" letter-spacing="-1.6">KUMAR</text>
-
-    <rect x="48" y="238" width="488" height="2" fill="url(#fade)"/>
-
-    <text x="48" y="286" fill="#AAB2BF" font-size="19" letter-spacing="0.7">I BUILD SYSTEMS THAT</text>
-    <text x="48" y="324" fill="#F0F6FC" font-size="28" font-weight="700" letter-spacing="0.5">OBSERVE → DECIDE → ACT</text>
-
-    <text x="48" y="378" fill="#727B89" font-size="13" letter-spacing="1.1">BROWSER / AI / PRODUCT / BACKEND / INFRASTRUCTURE</text>
-    <text x="48" y="414" fill="#727B89" font-size="13" letter-spacing="1.1">INDIA  ·  SOFTWARE ENGINEER  ·  BUILDING FROM IDEA TO PRODUCTION</text>
-
-    <text x="48" y="474" fill="#4D5664" font-size="11" letter-spacing="1.7">PROFILE SIGNATURE  /  SYSTEMS FINGERPRINT  /  REV 2026.09</text>
-  </g>
-
-  <!-- fingerprint system -->
-  <g transform="translate(932 262)">
-    <circle r="168" stroke="#1C2430" stroke-width="1"/>
-    <circle r="132" stroke="#202938" stroke-width="1" stroke-dasharray="4 8"/>
-    <circle r="96" stroke="#263244" stroke-width="1"/>
-    <circle r="60" stroke="#32445D" stroke-width="1" stroke-dasharray="3 7"/>
-    <circle r="20" fill="#101720" stroke="#58A6FF" stroke-width="1.5"/>
-    <circle r="5" fill="#58A6FF"/>
-
-    <path d="M0-168 A168 168 0 0 1 159-54" stroke="#58A6FF" stroke-width="3" stroke-linecap="round"/>
-    <path d="M132 0 A132 132 0 0 1 25 130" stroke="#A371F7" stroke-width="3" stroke-linecap="round"/>
-    <path d="M-96 0 A96 96 0 0 1 -20-94" stroke="#3FB950" stroke-width="3" stroke-linecap="round"/>
-    <path d="M0 60 A60 60 0 0 1 -58 15" stroke="#D29922" stroke-width="3" stroke-linecap="round"/>
-
-    <g fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.3">
-      <text x="-18" y="-188">INTERFACE</text>
-      <text x="144" y="-8">CONTEXT</text>
-      <text x="80" y="151">DECISION</text>
-      <text x="-162" y="92">EXECUTION</text>
-      <text x="-194" y="-42">INFRA</text>
-    </g>
-
-    <g fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">
-      <text x="-30" y="4">CORE</text>
-    </g>
-  </g>
-
-  <!-- edge annotations -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#5D6674" letter-spacing="1.1">
-    <text x="758" y="466">01 / PRODUCT SURFACES</text>
-    <text x="918" y="466">02 / INTELLIGENCE</text>
-    <text x="1070" y="466">03 / OPERATIONS</text>
+    <text x="56" y="365" fill="#5F6A77" font-size="12" letter-spacing="1.2">BUILD / SHIP / RESEARCH / OPERATE / ARCHIVE — EACH PROJECT LABELED BY ITS REAL STATE</text>
   </g>
 </svg>
