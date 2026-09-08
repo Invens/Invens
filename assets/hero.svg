@@ -1,0 +1,53 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="358" rx="17" stroke="#30363D"/>
+
+  <g opacity="0.35" stroke="#21262D">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+    <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="48" y="52" fill="#8B949E" font-size="13" letter-spacing="2">INVENS / IDENTITY NODE</text>
+    <circle cx="1122" cy="48" r="5" fill="#3FB950"/>
+    <text x="1140" y="53" fill="#8B949E" font-size="12" letter-spacing="1.5">ONLINE</text>
+
+    <text x="48" y="128" fill="#F0F6FC" font-size="46" font-weight="700" letter-spacing="1">ABHISHEK.SYSTEM</text>
+    <text x="50" y="164" fill="#8B949E" font-size="16" letter-spacing="1.7">SOFTWARE ENGINEER  /  PRODUCT BUILDER  /  SYSTEMS</text>
+
+    <path d="M52 207H1148" stroke="#30363D"/>
+
+    <g transform="translate(50 232)">
+      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
+      <text x="16" y="24" fill="#58A6FF" font-size="11" letter-spacing="1.6">NODE_01</text>
+      <text x="16" y="49" fill="#F0F6FC" font-size="15">PRODUCTS</text>
+    </g>
+    <g transform="translate(230 232)">
+      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
+      <text x="16" y="24" fill="#A371F7" font-size="11" letter-spacing="1.6">NODE_02</text>
+      <text x="16" y="49" fill="#F0F6FC" font-size="15">AI SYSTEMS</text>
+    </g>
+    <g transform="translate(410 232)">
+      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
+      <text x="16" y="24" fill="#58A6FF" font-size="11" letter-spacing="1.6">NODE_03</text>
+      <text x="16" y="49" fill="#F0F6FC" font-size="15">BROWSERS</text>
+    </g>
+    <g transform="translate(590 232)">
+      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
+      <text x="16" y="24" fill="#3FB950" font-size="11" letter-spacing="1.6">NODE_04</text>
+      <text x="16" y="49" fill="#F0F6FC" font-size="15">BACKEND</text>
+    </g>
+    <g transform="translate(770 232)">
+      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
+      <text x="16" y="24" fill="#58A6FF" font-size="11" letter-spacing="1.6">NODE_05</text>
+      <text x="16" y="49" fill="#F0F6FC" font-size="15">INFRA</text>
+    </g>
+    <g transform="translate(950 232)">
+      <rect width="198" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
+      <text x="16" y="24" fill="#A371F7" font-size="11" letter-spacing="1.6">NODE_06</text>
+      <text x="16" y="49" fill="#F0F6FC" font-size="15">EXPERIMENTS</text>
+    </g>
+
+    <text x="50" y="336" fill="#6E7681" font-size="11" letter-spacing="1.5">BUILDING THINGS THAT SHOULD EXIST.</text>
+  </g>
+</svg>
