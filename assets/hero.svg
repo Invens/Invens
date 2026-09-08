@@ -1,53 +1,77 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="360" rx="18" fill="#0D1117"/>
-  <rect x="1" y="1" width="1198" height="358" rx="17" stroke="#30363D"/>
+<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0A0E14"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 236) rotate(90) scale(210 250)">
+      <stop stop-color="#1F6FEB" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
 
-  <g opacity="0.35" stroke="#21262D">
-    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
-    <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360"/>
+  <rect width="1200" height="470" rx="24" fill="url(#fade)"/>
+  <rect x="1" y="1" width="1198" height="468" rx="23" stroke="#30363D"/>
+  <rect width="1200" height="470" rx="24" fill="url(#glow)"/>
+
+  <g opacity="0.5" stroke="#1B222C">
+    <path d="M0 94H1200M0 188H1200M0 282H1200M0 376H1200"/>
+    <path d="M150 0V470M300 0V470M450 0V470M600 0V470M750 0V470M900 0V470M1050 0V470"/>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="48" y="52" fill="#8B949E" font-size="13" letter-spacing="2">INVENS / IDENTITY NODE</text>
-    <circle cx="1122" cy="48" r="5" fill="#3FB950"/>
-    <text x="1140" y="53" fill="#8B949E" font-size="12" letter-spacing="1.5">ONLINE</text>
+    <text x="50" y="50" fill="#7D8590" font-size="12" letter-spacing="2.4">INVENS // ENGINEERING PROFILE</text>
+    <circle cx="1080" cy="45" r="4" fill="#3FB950"/>
+    <text x="1094" y="50" fill="#8B949E" font-size="11" letter-spacing="1.8">ACTIVE</text>
 
-    <text x="48" y="128" fill="#F0F6FC" font-size="46" font-weight="700" letter-spacing="1">ABHISHEK.SYSTEM</text>
-    <text x="50" y="164" fill="#8B949E" font-size="16" letter-spacing="1.7">SOFTWARE ENGINEER  /  PRODUCT BUILDER  /  SYSTEMS</text>
+    <text x="50" y="135" fill="#F0F6FC" font-size="19" letter-spacing="3.6">ABHISHEK KUMAR</text>
+    <text x="48" y="205" fill="#FFFFFF" font-size="62" font-weight="700" letter-spacing="-2">BUILDING SYSTEMS</text>
+    <text x="50" y="250" fill="#8B949E" font-size="18" letter-spacing="0.5">software engineer · product builder · infrastructure-minded</text>
 
-    <path d="M52 207H1148" stroke="#30363D"/>
+    <path d="M50 291H600" stroke="#30363D"/>
+    <text x="50" y="326" fill="#C9D1D9" font-size="14">AI / BROWSERS / BACKEND / MOBILE / INFRASTRUCTURE</text>
+    <text x="50" y="360" fill="#7D8590" font-size="13">I build products end-to-end — architecture, code, deployment and iteration.</text>
 
-    <g transform="translate(50 232)">
-      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
-      <text x="16" y="24" fill="#58A6FF" font-size="11" letter-spacing="1.6">NODE_01</text>
-      <text x="16" y="49" fill="#F0F6FC" font-size="15">PRODUCTS</text>
-    </g>
-    <g transform="translate(230 232)">
-      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
-      <text x="16" y="24" fill="#A371F7" font-size="11" letter-spacing="1.6">NODE_02</text>
-      <text x="16" y="49" fill="#F0F6FC" font-size="15">AI SYSTEMS</text>
-    </g>
-    <g transform="translate(410 232)">
-      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
-      <text x="16" y="24" fill="#58A6FF" font-size="11" letter-spacing="1.6">NODE_03</text>
-      <text x="16" y="49" fill="#F0F6FC" font-size="15">BROWSERS</text>
-    </g>
-    <g transform="translate(590 232)">
-      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
-      <text x="16" y="24" fill="#3FB950" font-size="11" letter-spacing="1.6">NODE_04</text>
-      <text x="16" y="49" fill="#F0F6FC" font-size="15">BACKEND</text>
-    </g>
-    <g transform="translate(770 232)">
-      <rect width="160" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
-      <text x="16" y="24" fill="#58A6FF" font-size="11" letter-spacing="1.6">NODE_05</text>
-      <text x="16" y="49" fill="#F0F6FC" font-size="15">INFRA</text>
-    </g>
-    <g transform="translate(950 232)">
-      <rect width="198" height="72" rx="8" fill="#161B22" stroke="#30363D"/>
-      <text x="16" y="24" fill="#A371F7" font-size="11" letter-spacing="1.6">NODE_06</text>
-      <text x="16" y="49" fill="#F0F6FC" font-size="15">EXPERIMENTS</text>
+    <g transform="translate(50 404)">
+      <circle cx="4" cy="-4" r="4" fill="#58A6FF"/>
+      <text x="18" y="0" fill="#8B949E" font-size="11" letter-spacing="1.5">CURRENT VECTOR</text>
+      <text x="150" y="0" fill="#F0F6FC" font-size="12" letter-spacing="1">PRODUCTS × INTELLIGENT SYSTEMS</text>
     </g>
 
-    <text x="50" y="336" fill="#6E7681" font-size="11" letter-spacing="1.5">BUILDING THINGS THAT SHOULD EXIST.</text>
+    <!-- right-side topology -->
+    <g transform="translate(880 235)">
+      <circle cx="0" cy="0" r="118" stroke="#263140"/>
+      <circle cx="0" cy="0" r="76" stroke="#30363D" stroke-dasharray="4 7"/>
+      <circle cx="0" cy="0" r="38" fill="#161B22" stroke="#58A6FF"/>
+      <circle cx="0" cy="0" r="52" fill="#58A6FF" opacity="0.06" filter="url(#soft)"/>
+      <text x="0" y="-5" text-anchor="middle" fill="#58A6FF" font-size="10" letter-spacing="1.8">CORE</text>
+      <text x="0" y="14" text-anchor="middle" fill="#F0F6FC" font-size="13" font-weight="700">AK</text>
+
+      <path d="M0 -38V-93" stroke="#3D4B5F"/>
+      <path d="M37 -10L93 -37" stroke="#3D4B5F"/>
+      <path d="M30 25L77 75" stroke="#3D4B5F"/>
+      <path d="M-27 27L-75 78" stroke="#3D4B5F"/>
+      <path d="M-38 -5L-96 -23" stroke="#3D4B5F"/>
+
+      <circle cx="0" cy="-108" r="7" fill="#0D1117" stroke="#A371F7"/>
+      <text x="0" y="-129" text-anchor="middle" fill="#C9D1D9" font-size="11" letter-spacing="1.3">AI</text>
+
+      <circle cx="108" cy="-43" r="7" fill="#0D1117" stroke="#58A6FF"/>
+      <text x="132" y="-39" fill="#C9D1D9" font-size="11" letter-spacing="1.3">BROWSER</text>
+
+      <circle cx="88" cy="86" r="7" fill="#0D1117" stroke="#3FB950"/>
+      <text x="108" y="90" fill="#C9D1D9" font-size="11" letter-spacing="1.3">BACKEND</text>
+
+      <circle cx="-87" cy="89" r="7" fill="#0D1117" stroke="#D29922"/>
+      <text x="-109" y="113" text-anchor="middle" fill="#C9D1D9" font-size="11" letter-spacing="1.3">INFRA</text>
+
+      <circle cx="-112" cy="-27" r="7" fill="#0D1117" stroke="#58A6FF"/>
+      <text x="-140" y="-45" text-anchor="middle" fill="#C9D1D9" font-size="11" letter-spacing="1.3">PRODUCT</text>
+    </g>
+
+    <text x="835" y="424" fill="#6E7681" font-size="10" letter-spacing="2">SYSTEM TOPOLOGY / NOT A SKILL CLOUD</text>
   </g>
 </svg>
