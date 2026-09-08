@@ -1,0 +1,73 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="560" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="558" rx="17" stroke="#30363D"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="48" fill="#8B949E" font-size="13" letter-spacing="2">SYSTEM MAP / SELECTED WORK</text>
+    <text x="1082" y="48" fill="#6E7681" font-size="11" letter-spacing="1.2">REV. 2026.09</text>
+
+    <!-- connectors -->
+    <g stroke="#30363D" stroke-width="2">
+      <path d="M600 181V228"/>
+      <path d="M600 228H260V276"/>
+      <path d="M600 228H600V276"/>
+      <path d="M600 228H940V276"/>
+      <path d="M260 356V408"/>
+      <path d="M600 356V408"/>
+      <path d="M940 356V408"/>
+    </g>
+    <g fill="#58A6FF">
+      <circle cx="600" cy="228" r="4"/>
+      <circle cx="260" cy="276" r="4"/>
+      <circle cx="600" cy="276" r="4"/>
+      <circle cx="940" cy="276" r="4"/>
+    </g>
+
+    <!-- core -->
+    <rect x="450" y="92" width="300" height="90" rx="10" fill="#161B22" stroke="#58A6FF"/>
+    <text x="474" y="122" fill="#58A6FF" font-size="11" letter-spacing="1.6">CORE / OPERATOR</text>
+    <text x="474" y="151" fill="#F0F6FC" font-size="21" font-weight="700">ABHISHEK KUMAR</text>
+    <circle cx="718" cy="137" r="5" fill="#3FB950"/>
+
+    <!-- layer 1 -->
+    <g>
+      <rect x="120" y="276" width="280" height="80" rx="9" fill="#161B22" stroke="#30363D"/>
+      <text x="140" y="302" fill="#58A6FF" font-size="11" letter-spacing="1.5">PRODUCT NODE</text>
+      <text x="140" y="330" fill="#F0F6FC" font-size="18">ZYLO</text>
+      <text x="222" y="330" fill="#8B949E" font-size="12">browser · privacy · vpn · ai</text>
+    </g>
+    <g>
+      <rect x="460" y="276" width="280" height="80" rx="9" fill="#161B22" stroke="#30363D"/>
+      <text x="480" y="302" fill="#A371F7" font-size="11" letter-spacing="1.5">DISCOVERY NODE</text>
+      <text x="480" y="330" fill="#F0F6FC" font-size="18">EXPLOREAI</text>
+      <text x="603" y="330" fill="#8B949E" font-size="12">ai discovery · seo · tools</text>
+    </g>
+    <g>
+      <rect x="800" y="276" width="280" height="80" rx="9" fill="#161B22" stroke="#30363D"/>
+      <text x="820" y="302" fill="#3FB950" font-size="11" letter-spacing="1.5">AUTOMATION NODE</text>
+      <text x="820" y="330" fill="#F0F6FC" font-size="18">SOCIALHUB</text>
+      <text x="947" y="330" fill="#8B949E" font-size="12">publishing · media · agents</text>
+    </g>
+
+    <!-- layer 2 -->
+    <g>
+      <rect x="120" y="408" width="280" height="82" rx="9" fill="#11161D" stroke="#30363D"/>
+      <text x="140" y="434" fill="#A371F7" font-size="11" letter-spacing="1.5">LAB / GEN</text>
+      <text x="140" y="462" fill="#F0F6FC" font-size="17">VECTORSEED</text>
+      <text x="257" y="462" fill="#8B949E" font-size="12">structured svg generation</text>
+    </g>
+    <g>
+      <rect x="460" y="408" width="280" height="82" rx="9" fill="#11161D" stroke="#30363D"/>
+      <text x="480" y="434" fill="#58A6FF" font-size="11" letter-spacing="1.5">LAB / INTELLIGENCE</text>
+      <text x="480" y="462" fill="#F0F6FC" font-size="17">ORCHESTRATOR</text>
+      <text x="628" y="462" fill="#8B949E" font-size="12">routing · agents · verification</text>
+    </g>
+    <g>
+      <rect x="800" y="408" width="280" height="82" rx="9" fill="#11161D" stroke="#30363D"/>
+      <text x="820" y="434" fill="#3FB950" font-size="11" letter-spacing="1.5">PRODUCT / WEB</text>
+      <text x="820" y="462" fill="#F0F6FC" font-size="17">LOKISURF</text>
+      <text x="923" y="462" fill="#8B949E" font-size="12">gaming · discovery · seo</text>
+    </g>
+
+    <text x="42" y="530" fill="#6E7681" font-size="11" letter-spacing="1.3">PRODUCTS ARE NODES. ARCHITECTURE IS THE CONNECTIVE TISSUE.</text>
+  </g>
+</svg>
