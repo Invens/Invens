@@ -1,25 +1,48 @@
-<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="400" rx="22" fill="#0D1117"/>
-  <rect x="1" y="1" width="1198" height="398" rx="21" stroke="#30363D"/>
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="520" rx="18" fill="#F1EEE6"/>
+  <rect x="1" y="1" width="1198" height="518" rx="17" stroke="#151515" stroke-width="2"/>
 
-  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
-    <text x="54" y="58" fill="#7D8590" font-size="13" font-weight="600" letter-spacing="2.4">INVENS / ENGINEERING INDEX</text>
-    <circle cx="1116" cy="53" r="5" fill="#3FB950"/>
-    <text x="1132" y="58" fill="#7D8590" font-size="12" font-weight="600" letter-spacing="1.5">ACTIVE</text>
+  <g stroke="#D8D3C8" stroke-width="1">
+    <path d="M0 104H1200M0 208H1200M0 312H1200M0 416H1200"/>
+    <path d="M100 0V520M200 0V520M300 0V520M400 0V520M500 0V520M600 0V520M700 0V520M800 0V520M900 0V520M1000 0V520M1100 0V520"/>
+  </g>
 
-    <text x="54" y="154" fill="#F0F6FC" font-size="58" font-weight="700" letter-spacing="-1.6">Abhishek Kumar</text>
-    <text x="56" y="198" fill="#A7B0BC" font-size="22">Software engineer building products, intelligent systems and infrastructure.</text>
+  <rect x="0" y="0" width="18" height="520" fill="#FF5A36"/>
+  <rect x="784" y="0" width="416" height="520" fill="#151515"/>
+  <rect x="784" y="0" width="10" height="520" fill="#FF5A36"/>
 
-    <path d="M56 238H1144" stroke="#30363D"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="54" y="52" fill="#151515" font-size="12" font-weight="700" letter-spacing="2.2">INVENS / ENGINEERING INDEX</text>
+    <text x="54" y="82" fill="#6D685F" font-size="11" letter-spacing="1.6">FIELD NOTE 26.09 · INDIA · SOFTWARE ENGINEER</text>
 
-    <text x="56" y="282" fill="#7D8590" font-size="12" font-weight="600" letter-spacing="1.8">WORK ACROSS</text>
-    <text x="56" y="318" fill="#F0F6FC" font-size="17">Browser &amp; Privacy</text>
-    <text x="258" y="318" fill="#F0F6FC" font-size="17">AI &amp; Research</text>
-    <text x="426" y="318" fill="#F0F6FC" font-size="17">Products &amp; SaaS</text>
-    <text x="614" y="318" fill="#F0F6FC" font-size="17">AdTech &amp; Commerce</text>
-    <text x="824" y="318" fill="#F0F6FC" font-size="17">Automation</text>
-    <text x="960" y="318" fill="#F0F6FC" font-size="17">Infrastructure</text>
+    <text x="54" y="186" fill="#151515" font-size="64" font-weight="800" letter-spacing="-3">ABHISHEK</text>
+    <text x="54" y="248" fill="#151515" font-size="64" font-weight="800" letter-spacing="-3">KUMAR</text>
 
-    <text x="56" y="365" fill="#5F6A77" font-size="12" letter-spacing="1.2">BUILD / SHIP / RESEARCH / OPERATE / ARCHIVE — EACH PROJECT LABELED BY ITS REAL STATE</text>
+    <rect x="54" y="282" width="178" height="8" fill="#FF5A36"/>
+    <text x="54" y="338" fill="#151515" font-size="21" font-weight="700" letter-spacing="0.4">I BUILD SYSTEMS FROM IDEA TO PRODUCTION.</text>
+    <text x="54" y="377" fill="#6D685F" font-size="14" letter-spacing="1.1">PRODUCT · AI · BROWSER · BACKEND · INFRASTRUCTURE</text>
+
+    <text x="54" y="455" fill="#151515" font-size="11" font-weight="700" letter-spacing="1.8">55 PROJECTS / 8 DOMAINS / MULTIPLE LIFECYCLES</text>
+    <text x="54" y="483" fill="#6D685F" font-size="10" letter-spacing="1.6">LIVE ≠ PRIVATE ≠ BUILDING ≠ RESEARCH ≠ ARCHIVE</text>
+
+    <text x="824" y="54" fill="#F1EEE6" font-size="11" letter-spacing="2">SYSTEMS / NOT SKILLS</text>
+    <text x="824" y="180" fill="#F1EEE6" font-size="160" font-weight="900" letter-spacing="-12">AK</text>
+    <rect x="824" y="214" width="318" height="2" fill="#4A4A4A"/>
+
+    <text x="824" y="260" fill="#FF5A36" font-size="12" font-weight="700" letter-spacing="1.8">OPERATING PATTERN</text>
+    <text x="824" y="303" fill="#F1EEE6" font-size="18" font-weight="700">OBSERVE</text>
+    <text x="952" y="303" fill="#777" font-size="18">→</text>
+    <text x="982" y="303" fill="#F1EEE6" font-size="18" font-weight="700">MODEL</text>
+
+    <text x="824" y="341" fill="#F1EEE6" font-size="18" font-weight="700">BUILD</text>
+    <text x="931" y="341" fill="#777" font-size="18">→</text>
+    <text x="961" y="341" fill="#F1EEE6" font-size="18" font-weight="700">SHIP</text>
+
+    <text x="824" y="379" fill="#F1EEE6" font-size="18" font-weight="700">MEASURE</text>
+    <text x="951" y="379" fill="#777" font-size="18">→</text>
+    <text x="981" y="379" fill="#F1EEE6" font-size="18" font-weight="700">REBUILD</text>
+
+    <text x="824" y="466" fill="#929292" font-size="10" letter-spacing="1.5">ABHISHEK KUMAR / INVENS</text>
+    <text x="824" y="489" fill="#929292" font-size="10" letter-spacing="1.5">ENGINEERING ARCHIVE / REV. 03</text>
   </g>
 </svg>
