@@ -1,0 +1,66 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="22" fill="#090D12"/>
+  <rect x="1" y="1" width="1198" height="718" rx="21" stroke="#27313D"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="48" fill="#7D8590" font-size="12" letter-spacing="2.4">PROJECT UNIVERSE / 55 SYSTEMS / 8 DOMAINS</text>
+    <text x="1088" y="48" fill="#3FB950" font-size="11" letter-spacing="1.4">INDEXED</text>
+    <path d="M42 70H1158" stroke="#27313D"/>
+
+    <g transform="translate(42 100)">
+      <text x="0" y="0" fill="#58A6FF" font-size="12" letter-spacing="1.8">01 / BROWSER &amp; PRIVACY</text>
+      <text x="0" y="30" fill="#F0F6FC" font-size="20">Zylo VPN · Zylo Browser · DMP · Suggestive Ads · Companion · LokiVPN Tracker</text>
+      <text x="1070" y="0" fill="#7D8590" font-size="11">06</text>
+      <path d="M0 52H1116" stroke="#1F2833"/>
+    </g>
+
+    <g transform="translate(42 176)">
+      <text x="0" y="0" fill="#A371F7" font-size="12" letter-spacing="1.8">02 / EXPLOREAI ECOSYSTEM</text>
+      <text x="0" y="30" fill="#F0F6FC" font-size="20">ExploreAI.tools · Backend · Dashboard · AI SEO Engine · Agent V2</text>
+      <text x="1070" y="0" fill="#7D8590" font-size="11">05</text>
+      <path d="M0 52H1116" stroke="#1F2833"/>
+    </g>
+
+    <g transform="translate(42 252)">
+      <text x="0" y="0" fill="#D2A8FF" font-size="12" letter-spacing="1.8">03 / AI &amp; RESEARCH</text>
+      <text x="0" y="30" fill="#F0F6FC" font-size="20">INDRA · VectorSeed · RepoMind · Personalized AI · Hive · OpenClaw · LLM Chat</text>
+      <text x="1070" y="0" fill="#7D8590" font-size="11">07</text>
+      <path d="M0 52H1116" stroke="#1F2833"/>
+    </g>
+
+    <g transform="translate(42 328)">
+      <text x="0" y="0" fill="#3FB950" font-size="12" letter-spacing="1.8">04 / PRODUCTS &amp; SAAS</text>
+      <text x="0" y="30" fill="#F0F6FC" font-size="20">SocialHub · Fluencerz · LokiSurf · DhanWise · CleanMyBG · Advocate · IndiTeppich · GrowwPaisa · CoupleUp · Job Portal · Social Impact</text>
+      <text x="1070" y="0" fill="#7D8590" font-size="11">11</text>
+      <path d="M0 52H1116" stroke="#1F2833"/>
+    </g>
+
+    <g transform="translate(42 404)">
+      <text x="0" y="0" fill="#FFA657" font-size="12" letter-spacing="1.8">05 / ADTECH · AFFILIATE · COMMERCE</text>
+      <text x="0" y="30" fill="#F0F6FC" font-size="18">AdStudioz · Tracking · Publisher · Affiliate Web · Blog Engine · DealskyPro · EasyShopPrice · Amazon Automation · Trackier · DSP · Ads Tester · Tracking Code</text>
+      <text x="1070" y="0" fill="#7D8590" font-size="11">12</text>
+      <path d="M0 52H1116" stroke="#1F2833"/>
+    </g>
+
+    <g transform="translate(42 480)">
+      <text x="0" y="0" fill="#79C0FF" font-size="12" letter-spacing="1.8">06 / MEDIA AUTOMATION</text>
+      <text x="0" y="30" fill="#F0F6FC" font-size="20">CS Explainer Engine · Cat Grooming / Rescue Shorts Engine</text>
+      <text x="1070" y="0" fill="#7D8590" font-size="11">02</text>
+      <path d="M0 52H1116" stroke="#1F2833"/>
+    </g>
+
+    <g transform="translate(42 556)">
+      <text x="0" y="0" fill="#56D364" font-size="12" letter-spacing="1.8">07 / INFRASTRUCTURE &amp; ENTERPRISE</text>
+      <text x="0" y="30" fill="#F0F6FC" font-size="20">Lightweight Server Manager · Multi-Server Coolify · Alonsa AI/Odoo</text>
+      <text x="1070" y="0" fill="#7D8590" font-size="11">03</text>
+      <path d="M0 52H1116" stroke="#1F2833"/>
+    </g>
+
+    <g transform="translate(42 632)">
+      <text x="0" y="0" fill="#8B949E" font-size="12" letter-spacing="1.8">08 / EARLIER BUILDS &amp; EXPERIMENTS</text>
+      <text x="0" y="30" fill="#F0F6FC" font-size="18">Wedding Manage · Fashion · FashionApp · DesignIndianHomes · Boots &amp; Crampons · Tally9 · Gamora · GreenLantern · AR Instant App</text>
+      <text x="1070" y="0" fill="#7D8590" font-size="11">09</text>
+    </g>
+
+    <text x="42" y="698" fill="#59636E" font-size="10" letter-spacing="1.5">ONE BODY OF WORK / DIFFERENT SYSTEM BOUNDARIES</text>
+  </g>
+</svg>
