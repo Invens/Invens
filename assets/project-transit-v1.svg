@@ -1,0 +1,67 @@
+<svg width="1200" height="780" viewBox="0 0 1200 780" xmlns="http://www.w3.org/2000/svg">
+<style>
+.bg{fill:#0d1117}.panel{fill:#11161d}.border{stroke:#30363d}.text{fill:#f0f6fc}.muted{fill:#8b949e}.soft{fill:#6e7681}
+.browser{stroke:#56d364}.browserFill{fill:#56d364}.ai{stroke:#a371f7}.aiFill{fill:#a371f7}.product{stroke:#58a6ff}.productFill{fill:#58a6ff}.adtech{stroke:#e3b341}.adtechFill{fill:#e3b341}.infra{stroke:#f78166}.infraFill{fill:#f78166}
+@media (prefers-color-scheme: light){.bg{fill:#ffffff}.panel{fill:#f6f8fa}.border{stroke:#d0d7de}.text{fill:#1f2328}.muted{fill:#59636e}.soft{fill:#818b98}.browser{stroke:#1a7f37}.browserFill{fill:#1a7f37}.ai{stroke:#8250df}.aiFill{fill:#8250df}.product{stroke:#0969da}.productFill{fill:#0969da}.adtech{stroke:#9a6700}.adtechFill{fill:#9a6700}.infra{stroke:#cf222e}.infraFill{fill:#cf222e}}
+.line{fill:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}.station{fill:#0d1117;stroke-width:5}.small{font-size:12px}.label{font-size:16px;font-weight:600}.lineLabel{font-size:13px;font-weight:700;letter-spacing:1px}
+@media (prefers-color-scheme: light){.station{fill:#ffffff}}
+</style>
+<rect width="1200" height="780" rx="18" class="bg"/>
+<rect x="1" y="1" width="1198" height="778" rx="17" fill="none" class="border"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <text x="44" y="48" class="muted" font-size="13">project map / follow a line</text>
+  <text x="44" y="88" class="text" font-size="30" font-weight="700">one body of work, five directions.</text>
+  <text x="44" y="118" class="muted" font-size="15">live products, active builds, research, private systems and older experiments</text>
+
+  <!-- Browser line -->
+  <path d="M90 190H330Q360 190 360 220V330Q360 360 390 360H550" class="line browser"/>
+  <text x="90" y="165" class="lineLabel browserFill">BROWSER / PRIVACY</text>
+  <circle cx="130" cy="190" r="12" class="station browser"/><text x="130" y="222" text-anchor="middle" class="label text">Zylo Browser</text><text x="130" y="241" text-anchor="middle" class="small muted">building</text>
+  <circle cx="260" cy="190" r="12" class="station browser"/><text x="260" y="222" text-anchor="middle" class="label text">Zylo VPN</text><text x="260" y="241" text-anchor="middle" class="small muted">building</text>
+  <circle cx="360" cy="275" r="12" class="station browser"/><text x="392" y="280" class="label text">DMP</text><text x="392" y="299" class="small muted">building</text>
+  <circle cx="470" cy="360" r="12" class="station browser"/><text x="470" y="393" text-anchor="middle" class="label text">Companion</text><text x="470" y="412" text-anchor="middle" class="small muted">prototype</text>
+
+  <!-- AI line -->
+  <path d="M560 150V610" class="line ai"/>
+  <text x="596" y="166" class="lineLabel aiFill">AI / RESEARCH</text>
+  <circle cx="560" cy="200" r="12" class="station ai"/><text x="596" y="205" class="label text">INDRA</text><text x="596" y="224" class="small muted">research</text>
+  <circle cx="560" cy="300" r="12" class="station ai"/><text x="596" y="305" class="label text">VectorSeed</text><text x="596" y="324" class="small muted">research</text>
+  <circle cx="560" cy="420" r="12" class="station ai"/><text x="596" y="425" class="label text">RepoMind</text><text x="596" y="444" class="small muted">prototype</text>
+  <circle cx="560" cy="535" r="12" class="station ai"/><text x="596" y="540" class="label text">Personalized AI</text><text x="596" y="559" class="small muted">research</text>
+
+  <!-- Product line -->
+  <path d="M360 360H870Q900 360 900 330V200" class="line product"/>
+  <text x="748" y="336" class="lineLabel productFill">PRODUCTS / SAAS</text>
+  <circle cx="650" cy="360" r="12" class="station product"/><text x="650" y="393" text-anchor="middle" class="label text">ExploreAI</text><text x="650" y="412" text-anchor="middle" class="small muted">live</text>
+  <circle cx="760" cy="360" r="12" class="station product"/><text x="760" y="393" text-anchor="middle" class="label text">SocialHub</text><text x="760" y="412" text-anchor="middle" class="small muted">building</text>
+  <circle cx="870" cy="360" r="12" class="station product"/><text x="930" y="366" class="label text">LokiSurf</text><text x="930" y="385" class="small muted">building</text>
+  <circle cx="900" cy="255" r="12" class="station product"/><text x="930" y="260" class="label text">Fluencerz</text><text x="930" y="279" class="small muted">private</text>
+  <circle cx="900" cy="200" r="12" class="productFill"/><text x="930" y="205" class="label text">Advocate Matrimony</text><text x="930" y="224" class="small muted">live</text>
+
+  <!-- Adtech line -->
+  <path d="M180 540H780Q810 540 810 510V360" class="line adtech"/>
+  <text x="180" y="515" class="lineLabel adtechFill">ADTECH / COMMERCE</text>
+  <circle cx="230" cy="540" r="12" class="station adtech"/><text x="230" y="573" text-anchor="middle" class="label text">AdStudioz</text><text x="230" y="592" text-anchor="middle" class="small muted">private</text>
+  <circle cx="390" cy="540" r="12" class="station adtech"/><text x="390" y="573" text-anchor="middle" class="label text">Affiliate Platform</text><text x="390" y="592" text-anchor="middle" class="small muted">building</text>
+  <circle cx="650" cy="540" r="12" class="station adtech"/><text x="650" y="573" text-anchor="middle" class="label text">Trackier</text><text x="650" y="592" text-anchor="middle" class="small muted">private</text>
+  <circle cx="810" cy="455" r="12" class="station adtech"/><text x="842" y="460" class="label text">EasyShopPrice</text><text x="842" y="479" class="small muted">private</text>
+
+  <!-- Infra line -->
+  <path d="M1010 630V470Q1010 440 980 440H810" class="line infra"/>
+  <text x="934" y="664" class="lineLabel infraFill">SYSTEMS / INFRA</text>
+  <circle cx="1010" cy="600" r="12" class="station infra"/><text x="980" y="605" text-anchor="end" class="label text">Coolify Infra</text><text x="980" y="624" text-anchor="end" class="small muted">private</text>
+  <circle cx="1010" cy="520" r="12" class="station infra"/><text x="980" y="525" text-anchor="end" class="label text">Server Manager</text><text x="980" y="544" text-anchor="end" class="small muted">concept</text>
+  <circle cx="930" cy="440" r="12" class="station infra"/><text x="930" y="473" text-anchor="middle" class="label text">Alonsa / Odoo</text><text x="930" y="492" text-anchor="middle" class="small muted">concept</text>
+
+  <!-- Interchanges -->
+  <circle cx="560" cy="360" r="18" class="bg product" stroke-width="6"/>
+  <circle cx="560" cy="360" r="9" class="aiFill"/>
+  <text x="560" y="700" text-anchor="middle" class="muted" font-size="12">interchange = work crossing more than one domain</text>
+
+  <!-- legend -->
+  <g transform="translate(44 725)">
+    <circle cx="8" cy="0" r="8" class="productFill"/><text x="24" y="5" class="small muted">live</text>
+    <circle cx="94" cy="0" r="8" class="station product" stroke-width="3"/><text x="110" y="5" class="small muted">building / private / research</text>
+  </g>
+</g>
+</svg>
