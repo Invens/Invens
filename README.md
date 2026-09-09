@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/project-transit-v1.svg" alt="Project transit map" width="100%" />
+  <img src="./assets/casebook-cover-v1.svg" alt="Engineering casebook" width="100%" />
 </p>
 
 <p align="center">
@@ -10,26 +10,63 @@
   <a href="https://exploreai.tools/">ExploreAI</a>
 </p>
 
-Follow a line. The map is the overview; the folders below are the details.
+I work end-to-end — product surface, backend, data, deployment, and the parts that get uncomfortable once software meets production.
 
-**Jump to:** [browser & privacy](#browser) · [AI & research](#ai-research) · [products](#products) · [adtech & commerce](#adtech) · [systems & infrastructure](#systems-infra) · [earlier builds](#archive)
+## open a case
 
-<details>
-<summary><strong>field notes from production</strong></summary>
+<details open>
+<summary><strong>01 — How do you keep VPN state consistent across Flutter, Android and iOS?</strong></summary>
 <br/>
 
-- Flutter VPN UI was straightforward; keeping native connection state, providers and platform bridges consistent across Android and iOS was the real systems problem.
-- Migrating a production backend from MySQL to MongoDB turned plugin timing, deployment behavior and data shape into product concerns—not just database concerns.
-- AI generation became useful only after treating model failure as normal: routing, fallback and verification became part of the architecture.
-- Browser personalization became a privacy problem the moment context started affecting recommendations.
+**Zylo Browser / Zylo VPN** · `building`
+
+The UI was never the hard part. The interesting work is keeping connection state, native SDK behavior, providers, reconnects and platform bridges aligned while the product still feels simple.
+
+`Flutter` · `Android/iOS native bridges` · `AtomSDK / PureWL` · `Node.js`
+
+</details>
+
+<details>
+<summary><strong>02 — What should happen when the AI model fails?</strong></summary>
+<br/>
+
+**INDRA / ExploreAI AI systems** · `research + production work`
+
+I treat model failure as normal rather than exceptional: classify the task, route it, fall back when needed, verify the output, and keep the rest of the system independent from one provider or model.
+
+`classification` · `routing` · `fallback` · `verification` · `OpenRouter`
+
+</details>
+
+<details>
+<summary><strong>03 — What actually breaks when a production database changes?</strong></summary>
+<br/>
+
+**Advocate Matrimony** · `live`
+
+A MySQL → MongoDB migration changed more than storage: plugin startup, data shape, deployment behavior and backend assumptions all became part of the migration.
+
+`Fastify` · `MongoDB` · `deployment` · `migration`
+
+</details>
+
+<details>
+<summary><strong>04 — How much browser context is useful before it becomes invasive?</strong></summary>
+<br/>
+
+**Zylo / Loki DMP + Companion** · `building / prototype`
+
+The moment browsing context changes recommendations, personalization becomes a privacy architecture problem. The system has to separate useful intent from unnecessary observation.
+
+`events` · `intent` · `segmentation` · `recommendation` · `privacy boundaries`
 
 </details>
 
 ---
 
-## full directory
+## project index
 
-<sub>55 projects across 8 areas. Each folder stays collapsed until you want the details.</sub>
+<sub>55 projects across 8 areas. States are explicit: <code>live</code>, <code>building</code>, <code>private</code>, <code>prototype</code>, <code>research</code>, <code>concept</code>, <code>archive</code>.</sub>
 
 <br/>
 
