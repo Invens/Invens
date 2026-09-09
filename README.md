@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header-v3.svg" alt="Engineering work overview" width="100%" />
+  <img src="./assets/profile-header-v4.svg" alt="Engineering work overview" width="100%" />
 </p>
 
 <p align="center">
@@ -20,12 +20,49 @@ I usually work end-to-end: product idea, frontend/mobile, backend, data, deploym
 
 ---
 
+## pick a thread
+
+There is no correct order. Start with the kind of problem you care about.
+
+<table>
+<tr>
+<td width="50%">
+<a href="#browser"><img src="./assets/path-browser-v1.svg" alt="Browser and privacy projects" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="#ai-research"><img src="./assets/path-ai-v1.svg" alt="AI and research projects" width="100%" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="#products"><img src="./assets/path-products-v1.svg" alt="Product and SaaS projects" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="#systems-infra"><img src="./assets/path-systems-v1.svg" alt="Systems and infrastructure projects" width="100%" /></a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>things production taught me the hard way</strong></summary>
+<br/>
+
+- A Flutter VPN UI is the easy part; keeping native connection state, providers and platform bridges consistent across Android and iOS is where the architecture gets real.
+- Migrating a production backend from MySQL to MongoDB made plugin timing, deployment behavior and data shape part of the product problem—not just a database task.
+- AI generation is only useful in production when model failure is expected. That is why routing, fallback and verification keep appearing in my AI work.
+- Browser personalization becomes a privacy architecture problem the moment context starts influencing recommendations.
+
+</details>
+
+---
+
 ## project directory
 
-<sub>55 projects across 8 areas. Most details stay collapsed so the profile remains readable.</sub>
+<sub>55 projects across 8 areas. The directory stays collapsed on purpose; open whatever catches your attention.</sub>
 
 <br/>
 
+<a id="browser"></a>
 <details>
 <summary><strong>01 / browser · privacy · intelligence</strong> &nbsp; <code>06</code></summary>
 <br/>
@@ -41,6 +78,7 @@ I usually work end-to-end: product idea, frontend/mobile, backend, data, deploym
 
 </details>
 
+<a id="exploreai"></a>
 <details>
 <summary><strong>02 / ExploreAI ecosystem</strong> &nbsp; <code>05</code></summary>
 <br/>
@@ -55,6 +93,7 @@ I usually work end-to-end: product idea, frontend/mobile, backend, data, deploym
 
 </details>
 
+<a id="ai-research"></a>
 <details>
 <summary><strong>03 / AI · research · generative systems</strong> &nbsp; <code>07</code></summary>
 <br/>
@@ -71,6 +110,7 @@ I usually work end-to-end: product idea, frontend/mobile, backend, data, deploym
 
 </details>
 
+<a id="products"></a>
 <details>
 <summary><strong>04 / products · SaaS · applications</strong> &nbsp; <code>11</code></summary>
 <br/>
@@ -91,6 +131,7 @@ I usually work end-to-end: product idea, frontend/mobile, backend, data, deploym
 
 </details>
 
+<a id="adtech"></a>
 <details>
 <summary><strong>05 / adtech · affiliate · commerce</strong> &nbsp; <code>12</code></summary>
 <br/>
@@ -123,6 +164,7 @@ I usually work end-to-end: product idea, frontend/mobile, backend, data, deploym
 
 </details>
 
+<a id="systems-infra"></a>
 <details>
 <summary><strong>07 / infrastructure · DevOps · enterprise</strong> &nbsp; <code>03</code></summary>
 <br/>
@@ -166,5 +208,5 @@ I usually work end-to-end: product idea, frontend/mobile, backend, data, deploym
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a> · <a href="mailto:abhisec.tech@gmail.com">abhisec.tech@gmail.com</a>
+  If something here is relevant to what you're building, <a href="mailto:abhisec.tech@gmail.com">email me</a> or find me on <a href="https://www.linkedin.com/in/abhisec-tech/">LinkedIn</a>.
 </p>
